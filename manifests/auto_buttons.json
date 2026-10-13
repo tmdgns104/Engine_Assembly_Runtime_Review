@@ -1,0 +1,72 @@
+[
+  {
+    "disabled": true,
+    "hidden": true,
+    "id": "start",
+    "onclick": "control('start')",
+    "text": "AUTO START"
+  },
+  {
+    "disabled": true,
+    "hidden": false,
+    "id": "stop",
+    "onclick": "control('stop')",
+    "text": "AUTO STOP"
+  },
+  {
+    "disabled": false,
+    "hidden": false,
+    "id": "",
+    "onclick": "captureStart()",
+    "text": "3초 뒤 촬영 시작"
+  },
+  {
+    "disabled": false,
+    "hidden": false,
+    "id": "",
+    "onclick": "captureStop()",
+    "text": "촬영 종료 · 저장"
+  },
+  {
+    "disabled": false,
+    "hidden": false,
+    "id": "",
+    "onclick": "saveZone()",
+    "text": "표시 영역 위치 확인 · 저장"
+  },
+  {
+    "disabled": false,
+    "hidden": false,
+    "id": "",
+    "onclick": "recover()",
+    "text": "빈 화면 확인 후 Track 복구"
+  },
+  {
+    "disabled": false,
+    "hidden": true,
+    "id": "",
+    "onclick": "mock('request',{value:true})",
+    "text": "Request ON"
+  },
+  {
+    "disabled": false,
+    "hidden": true,
+    "id": "",
+    "onclick": "mock('request',{value:false})",
+    "text": "Request OFF"
+  },
+  {
+    "disabled": false,
+    "hidden": true,
+    "id": "",
+    "onclick": "mock('resync',{})",
+    "text": "유효 OFF 상태 재동기화"
+  },
+  {
+    "disabled": false,
+    "hidden": true,
+    "id": "",
+    "onclick": "mock('fault',{kind:el('fault').value})",
+    "text": "시험"
+  }
+]

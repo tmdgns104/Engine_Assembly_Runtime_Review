@@ -1,0 +1,23 @@
+{
+  "release_id": "engine-dev-28d6e107b0f2a6c3",
+  "qualification": "DEVELOPMENT_BASELINE_NOT_PRODUCTION_ACCEPTED",
+  "runtime_path": "/home/jetson/oned_device_bench/current",
+  "package_path": "/home/jetson/oned_device_bench/assets/products/ENGINE_Z3005_5/dynamic_parts_005",
+  "package_manifest_sha256": "03bb926b2e54bd17b1a1033200218bc33e8595e15916e2885aae05d802cc6675",
+  "area_config_sha256": "a74ac642478ea4e5dc1ba81458948375fe8122e6b9167d15ca3d2d5f3256e115",
+  "station_sha256": "23fab6d7dd0b50c86cfdb1b51d6215e59c25d0bab0a3763f62cbf8e4999773bb",
+  "backend": "OMRON_CIP_BENCH",
+  "plc_contract": "LEGACY_THREE_BOOL",
+  "mock_auto_request_enabled": false,
+  "inspection_motion_mode": "STATIONARY",
+  "conveyor_capture_zone_normalized": null,
+  "network_plc_writes_enabled": true,
+  "physical_output_enabled": false,
+  "mode": "EXISTING_PLC_INSPECTION",
+  "final_policy": "BOTH_REQUIRED_V1",
+  "profile_path": "/home/jetson/oned_device_bench/config/line_profile.json",
+  "inference_dependencies": 28,
+  "laptop_required": false,
+  "line_session_id": null,
+  "boot_id": "da7a4e87-4678-4d65-9547-b0c7b581776b"
+}

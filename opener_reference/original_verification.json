@@ -1,0 +1,19 @@
+{
+  "status": "COMPLETE_ISOLATED_PASS",
+  "scope": "COMMUNICATION_CONTRACT_ONLY",
+  "source_contract_unit_tests": 3,
+  "native_synthetic_checks": 24,
+  "produced_sequences_in_16_pattern_windows": {
+    "all_16_slot_patterns_p2p": 65,
+    "all_16_slot_patterns_multicast": 65
+  },
+  "retrieved_files_sha256_verified": 183,
+  "field_plc_io": "NOT_RUN",
+  "actual_plc_bool_encoding": "UNVERIFIED",
+  "python_inspection_bridge": "NOT_IMPLEMENTED",
+  "deployment": "NOT_PERFORMED",
+  "canonical_runtime_replaced": false,
+  "candidate_binary_sha256": "44d8d3f9eade3c3f966e0919cb71cbb7614aa76861128644e42c83e4617b40f2",
+  "selected_eds_sha256": "78c0a78cb4f3e43da8090d41cdddfa14aa86dac7212f229104c0e75f02071b01",
+  "remaining_upstream_warning_lines": 86
+}

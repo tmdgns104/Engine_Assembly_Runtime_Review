@@ -1,0 +1,6702 @@
+[
+  {
+    "file": "runtime_source/current/boot_live.py",
+    "symbol": "start_allowed",
+    "line": 18,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/boot_live.py",
+    "symbol": "post_auto",
+    "line": 54,
+    "end_line": 61,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/boot_live.py",
+    "symbol": "run",
+    "line": 64,
+    "end_line": 131,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/boot_live.py",
+    "symbol": "main",
+    "line": 134,
+    "end_line": 138,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/launch_live.py",
+    "symbol": "sha256",
+    "line": 14,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/launch_live.py",
+    "symbol": "check_files",
+    "line": 18,
+    "end_line": 104,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/launch_live.py",
+    "symbol": "add_arguments",
+    "line": 107,
+    "end_line": 123,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/launch_live.py",
+    "symbol": "main",
+    "line": 126,
+    "end_line": 175,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/launch_live.py",
+    "symbol": "main.loaded_release",
+    "line": 168,
+    "end_line": 170,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/release"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "read_settings",
+    "line": 16,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "api",
+    "line": 25,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "gateway_arguments",
+    "line": 30,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "process_identity",
+    "line": 43,
+    "end_line": 49,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "assert_idle",
+    "line": 52,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/manage_live.py",
+    "symbol": "main",
+    "line": 71,
+    "end_line": 152,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/standalone_service.py",
+    "symbol": "plc_contract",
+    "line": 11,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/standalone_service.py",
+    "symbol": "check_port_available",
+    "line": 18,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/standalone_service.py",
+    "symbol": "settings",
+    "line": 27,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/standalone_service.py",
+    "symbol": "line_profile",
+    "line": 41,
+    "end_line": 52,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/standalone_service.py",
+    "symbol": "main",
+    "line": 55,
+    "end_line": 113,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/continuous.py",
+    "symbol": "ContinuousFrames",
+    "line": 8,
+    "end_line": 70,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/continuous.py",
+    "symbol": "ContinuousFrames.__init__",
+    "line": 9,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/continuous.py",
+    "symbol": "ContinuousFrames._receive",
+    "line": 23,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/continuous.py",
+    "symbol": "ContinuousFrames.capture",
+    "line": 42,
+    "end_line": 59,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/continuous.py",
+    "symbol": "ContinuousFrames.close",
+    "line": 61,
+    "end_line": 70,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/frame_integrity.py",
+    "symbol": "inspect_integrity",
+    "line": 5,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "finite_number",
+    "line": 8,
+    "end_line": 12,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "TriggerContext",
+    "line": 16,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "TriggerContext.__post_init__",
+    "line": 27,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "TriggerContext.to_dict",
+    "line": 40,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameError",
+    "line": 44,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameError.__init__",
+    "line": 45,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector",
+    "line": 50,
+    "end_line": 155,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector.__init__",
+    "line": 58,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector.check_active",
+    "line": 81,
+    "end_line": 91,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector.reject",
+    "line": 93,
+    "end_line": 104,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector.consider",
+    "line": 106,
+    "end_line": 148,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/fresh_frame.py",
+    "symbol": "FreshFrameSelector.evidence",
+    "line": 150,
+    "end_line": 155,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/gstreamer_camera.py",
+    "symbol": "GStreamerCamera",
+    "line": 10,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/gstreamer_camera.py",
+    "symbol": "GStreamerCamera.__init__",
+    "line": 11,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/gstreamer_camera.py",
+    "symbol": "GStreamerCamera.capture",
+    "line": 43,
+    "end_line": 118,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/gstreamer_camera.py",
+    "symbol": "GStreamerCamera.status",
+    "line": 120,
+    "end_line": 121,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/camera/gstreamer_camera.py",
+    "symbol": "GStreamerCamera.close",
+    "line": 123,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/enums.py",
+    "symbol": "StrEnum",
+    "line": 8,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/enums.py",
+    "symbol": "StrEnum.__str__",
+    "line": 9,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/enums.py",
+    "symbol": "ResultStatus",
+    "line": 13,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/enums.py",
+    "symbol": "RunMode",
+    "line": 22,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/enums.py",
+    "symbol": "ReasonCode",
+    "line": 27,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "CameraError",
+    "line": 8,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "DetectorError",
+    "line": 12,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "FatalDetectorError",
+    "line": 16,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Camera",
+    "line": 21,
+    "end_line": 34,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Camera.capture",
+    "line": 24,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Camera.status",
+    "line": 28,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Camera.close",
+    "line": 32,
+    "end_line": 34,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Detector",
+    "line": 38,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/interfaces.py",
+    "symbol": "Detector.detect",
+    "line": 39,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "_text",
+    "line": 14,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "_number",
+    "line": 21,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "_integer",
+    "line": 33,
+    "end_line": 37,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "_utc",
+    "line": 40,
+    "end_line": 45,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "_tuple_of",
+    "line": 48,
+    "end_line": 52,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "BoundingBox",
+    "line": 56,
+    "end_line": 71,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "BoundingBox.__post_init__",
+    "line": 64,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "BoundingBox.to_dict",
+    "line": 70,
+    "end_line": 71,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Detection",
+    "line": 75,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Detection.__post_init__",
+    "line": 83,
+    "end_line": 90,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Detection.to_dict",
+    "line": 92,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "DetectionResult",
+    "line": 102,
+    "end_line": 124,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "DetectionResult.__post_init__",
+    "line": 110,
+    "end_line": 116,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "DetectionResult.to_dict",
+    "line": 118,
+    "end_line": 124,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "FrameMetadata",
+    "line": 128,
+    "end_line": 152,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "FrameMetadata.__post_init__",
+    "line": 137,
+    "end_line": 143,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "FrameMetadata.to_dict",
+    "line": 145,
+    "end_line": 152,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "CameraFrame",
+    "line": 156,
+    "end_line": 183,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "CameraFrame.__post_init__",
+    "line": 170,
+    "end_line": 174,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "CameraFrame.to_metadata",
+    "line": 176,
+    "end_line": 183,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionRequest",
+    "line": 187,
+    "end_line": 205,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionRequest.__post_init__",
+    "line": 194,
+    "end_line": 198,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionRequest.to_dict",
+    "line": 200,
+    "end_line": 205,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Reason",
+    "line": 209,
+    "end_line": 223,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Reason.__post_init__",
+    "line": 218,
+    "end_line": 220,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "Reason.to_dict",
+    "line": 222,
+    "end_line": 223,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionResult",
+    "line": 227,
+    "end_line": 262,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionResult.__post_init__",
+    "line": 240,
+    "end_line": 253,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/contracts/models.py",
+    "symbol": "InspectionResult.to_dict",
+    "line": 255,
+    "end_line": 262,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "ReadBool",
+    "line": 7,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "MockPlcGateway",
+    "line": 12,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "MockPlcGateway.__init__",
+    "line": 18,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "MockPlcGateway.read_request",
+    "line": 27,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "MockPlcGateway.write",
+    "line": 30,
+    "end_line": 43,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "MockPlcGateway.status",
+    "line": 45,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController",
+    "line": 51,
+    "end_line": 244,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.__init__",
+    "line": 57,
+    "end_line": 73,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.transition",
+    "line": 75,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.select",
+    "line": 80,
+    "end_line": 88,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.stop",
+    "line": 90,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.resync",
+    "line": 100,
+    "end_line": 109,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.publish",
+    "line": 111,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.fault",
+    "line": 117,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.start",
+    "line": 127,
+    "end_line": 130,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.reinspect",
+    "line": 132,
+    "end_line": 136,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.consecutive",
+    "line": 138,
+    "end_line": 144,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.tick",
+    "line": 146,
+    "end_line": 195,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.tick_mock",
+    "line": 197,
+    "end_line": 239,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/lab_modes.py",
+    "symbol": "LabController.status",
+    "line": 241,
+    "end_line": 244,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell",
+    "line": 5,
+    "end_line": 77,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.__init__",
+    "line": 6,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.transition",
+    "line": 12,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.recover",
+    "line": 17,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.start",
+    "line": 22,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.tick",
+    "line": 33,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.finish",
+    "line": 60,
+    "end_line": 65,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.acknowledge_cycle",
+    "line": 67,
+    "end_line": 73,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/mock_cell.py",
+    "symbol": "MockCell.status",
+    "line": 75,
+    "end_line": 77,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "CipError",
+    "line": 13,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway",
+    "line": 17,
+    "end_line": 183,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.__init__",
+    "line": 23,
+    "end_line": 33,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._connect",
+    "line": 37,
+    "end_line": 49,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._receive",
+    "line": 51,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._exchange",
+    "line": 60,
+    "end_line": 77,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._path",
+    "line": 80,
+    "end_line": 82,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._message",
+    "line": 84,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._read_bool",
+    "line": 117,
+    "end_line": 130,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.read_request",
+    "line": 132,
+    "end_line": 140,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway._write_bool",
+    "line": 142,
+    "end_line": 159,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.write_result",
+    "line": 161,
+    "end_line": 162,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.write_done",
+    "line": 164,
+    "end_line": 165,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.health",
+    "line": 167,
+    "end_line": 175,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "OmronCipGateway.close",
+    "line": 177,
+    "end_line": 183,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "LegacyStandaloneGateway",
+    "line": 186,
+    "end_line": 217,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "LegacyStandaloneGateway.__init__",
+    "line": 190,
+    "end_line": 195,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "LegacyStandaloneGateway.probe_contract",
+    "line": 197,
+    "end_line": 201,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "LegacyStandaloneGateway._write_bool",
+    "line": 203,
+    "end_line": 208,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/omron_cip.py",
+    "symbol": "LegacyStandaloneGateway.health",
+    "line": 210,
+    "end_line": 217,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway",
+    "line": 21,
+    "end_line": 109,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway.__init__",
+    "line": 28,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway._read_code",
+    "line": 34,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway.probe_contract",
+    "line": 46,
+    "end_line": 65,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway.write",
+    "line": 67,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway._write_bool",
+    "line": 95,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway.health",
+    "line": 98,
+    "end_line": 105,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "OmronCipV2Gateway.close",
+    "line": 107,
+    "end_line": 109,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake",
+    "line": 112,
+    "end_line": 274,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.__init__",
+    "line": 119,
+    "end_line": 127,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake._write",
+    "line": 129,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake._changed",
+    "line": 141,
+    "end_line": 142,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.service_tick",
+    "line": 144,
+    "end_line": 177,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.poll",
+    "line": 179,
+    "end_line": 218,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.publish",
+    "line": 220,
+    "end_line": 242,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.resync",
+    "line": 244,
+    "end_line": 262,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.shutdown",
+    "line": 264,
+    "end_line": 267,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/plc_v2.py",
+    "symbol": "ExtendedRequestHandshake.status",
+    "line": 269,
+    "end_line": 274,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "decision_bit",
+    "line": 11,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "IoResult",
+    "line": 18,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway",
+    "line": 24,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway.read_request",
+    "line": 25,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway.write_result",
+    "line": 26,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway.write_done",
+    "line": 27,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway.health",
+    "line": 28,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "PlcGateway.close",
+    "line": 29,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway",
+    "line": 32,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.__init__",
+    "line": 34,
+    "end_line": 37,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.read_request",
+    "line": 38,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway._write",
+    "line": 42,
+    "end_line": 53,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.write_result",
+    "line": 54,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.write_done",
+    "line": 55,
+    "end_line": 55,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.health",
+    "line": 56,
+    "end_line": 59,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "MockPlcGateway.close",
+    "line": 60,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake",
+    "line": 63,
+    "end_line": 161,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.__init__",
+    "line": 64,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.record",
+    "line": 69,
+    "end_line": 71,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.fault",
+    "line": 72,
+    "end_line": 75,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake._request_withdrawn",
+    "line": 76,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake._done_cleared",
+    "line": 79,
+    "end_line": 80,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.resync",
+    "line": 81,
+    "end_line": 90,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.poll",
+    "line": 91,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.bind",
+    "line": 126,
+    "end_line": 130,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.publish",
+    "line": 131,
+    "end_line": 157,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "RequestHandshake.status",
+    "line": 158,
+    "end_line": 161,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake",
+    "line": 164,
+    "end_line": 293,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.__init__",
+    "line": 172,
+    "end_line": 181,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.record",
+    "line": 183,
+    "end_line": 185,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.poll",
+    "line": 187,
+    "end_line": 217,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.publish",
+    "line": 219,
+    "end_line": 241,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake._request_withdrawn",
+    "line": 243,
+    "end_line": 250,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake._done_cleared",
+    "line": 252,
+    "end_line": 257,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.release_cleared_cycle",
+    "line": 259,
+    "end_line": 276,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.shutdown",
+    "line": 278,
+    "end_line": 281,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/production_plc.py",
+    "symbol": "LegacyStandaloneHandshake.status",
+    "line": 283,
+    "end_line": 293,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway",
+    "line": 32,
+    "end_line": 114,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.__init__",
+    "line": 34,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.read_tag",
+    "line": 40,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.read_inputs",
+    "line": 56,
+    "end_line": 64,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.probe_contract",
+    "line": 66,
+    "end_line": 77,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.write",
+    "line": 79,
+    "end_line": 99,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.read_request",
+    "line": 101,
+    "end_line": 103,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.health",
+    "line": 105,
+    "end_line": 110,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineGateway.close",
+    "line": 112,
+    "end_line": 114,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake",
+    "line": 117,
+    "end_line": 277,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.__init__",
+    "line": 119,
+    "end_line": 133,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake._write",
+    "line": 135,
+    "end_line": 144,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake._changed",
+    "line": 146,
+    "end_line": 147,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake._inputs",
+    "line": 149,
+    "end_line": 161,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.service_tick",
+    "line": 163,
+    "end_line": 238,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.poll",
+    "line": 240,
+    "end_line": 242,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.in_position",
+    "line": 244,
+    "end_line": 247,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.publish",
+    "line": 249,
+    "end_line": 267,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.shutdown",
+    "line": 269,
+    "end_line": 271,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/control/standalone_plc.py",
+    "symbol": "LineHandshake.status",
+    "line": 273,
+    "end_line": 277,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "xyxy",
+    "line": 4,
+    "end_line": 6,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "intersection",
+    "line": 9,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "area",
+    "line": 13,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "iou",
+    "line": 17,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "calibrate",
+    "line": 22,
+    "end_line": 39,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "decide",
+    "line": 42,
+    "end_line": 83,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/bench.py",
+    "symbol": "decide.result",
+    "line": 43,
+    "end_line": 46,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/calibration.py",
+    "symbol": "ReferenceError",
+    "line": 15,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/calibration.py",
+    "symbol": "ReferenceError.__init__",
+    "line": 16,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/calibration.py",
+    "symbol": "station_fingerprint",
+    "line": 22,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/calibration.py",
+    "symbol": "reference_proposal",
+    "line": 27,
+    "end_line": 97,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "box_of",
+    "line": 11,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "result",
+    "line": 21,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "detection_geometry",
+    "line": 27,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "select_products",
+    "line": 41,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "inspect_frame",
+    "line": 54,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "aggregate_three",
+    "line": 142,
+    "end_line": 181,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/engine_dynamic.py",
+    "symbol": "aggregate_three.outcome",
+    "line": 143,
+    "end_line": 154,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/slots.py",
+    "symbol": "pixel_box",
+    "line": 6,
+    "end_line": 7,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/slots.py",
+    "symbol": "normalized_box",
+    "line": 10,
+    "end_line": 11,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/slots.py",
+    "symbol": "assign_slots",
+    "line": 14,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/slots.py",
+    "symbol": "assess",
+    "line": 38,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/decision/slots.py",
+    "symbol": "assess.result",
+    "line": 41,
+    "end_line": 55,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundGatewayResult",
+    "line": 12,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundGatewayResult.to_dict",
+    "line": 24,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway",
+    "line": 39,
+    "end_line": 163,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway.__init__",
+    "line": 49,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway.runtime_session_id",
+    "line": 61,
+    "end_line": 62,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway.active_binding",
+    "line": 65,
+    "end_line": 66,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway._current",
+    "line": 68,
+    "end_line": 70,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway.bind",
+    "line": 72,
+    "end_line": 87,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway._identity_error",
+    "line": 89,
+    "end_line": 114,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway._consume",
+    "line": 116,
+    "end_line": 123,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway._retire",
+    "line": 125,
+    "end_line": 130,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/bound_clearance_gateway.py",
+    "symbol": "BoundClearanceGateway.route",
+    "line": 132,
+    "end_line": 163,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "ClearanceEvidence",
+    "line": 7,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "ClearanceEvidence.__post_init__",
+    "line": 18,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "VisionExitEvidence",
+    "line": 28,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "VisionExitEvidence.__post_init__",
+    "line": 38,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "VisionAbsenceEvidence",
+    "line": 51,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "VisionAbsenceEvidence.__post_init__",
+    "line": 59,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "AreaClearEvidence",
+    "line": 71,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/clearance.py",
+    "symbol": "AreaClearEvidence.__post_init__",
+    "line": 83,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "_nonblank",
+    "line": 7,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "CycleTrackBinding",
+    "line": 13,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "CycleTrackBinding.__post_init__",
+    "line": 18,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "CycleTrackBinding.to_dict",
+    "line": 24,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "BoundClearanceEvidence",
+    "line": 29,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "BoundClearanceEvidence.__post_init__",
+    "line": 38,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/cycle_track_binding.py",
+    "symbol": "BoundClearanceEvidence.to_dict",
+    "line": 49,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "BridgeDisposition",
+    "line": 11,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "BridgeResult",
+    "line": 23,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "BridgeResult.to_dict",
+    "line": 36,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "ProviderTrackerBridge",
+    "line": 51,
+    "end_line": 118,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "ProviderTrackerBridge.__post_init__",
+    "line": 61,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "ProviderTrackerBridge.route",
+    "line": 65,
+    "end_line": 118,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/integration/provider_tracker_bridge.py",
+    "symbol": "ProviderTrackerBridge.route.held",
+    "line": 88,
+    "end_line": 90,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/collector.py",
+    "symbol": "Collector",
+    "line": 10,
+    "end_line": 95,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/collector.py",
+    "symbol": "Collector.__init__",
+    "line": 11,
+    "end_line": 12,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/collector.py",
+    "symbol": "Collector.receive_event",
+    "line": 14,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/collector.py",
+    "symbol": "Collector.receive_asset",
+    "line": 69,
+    "end_line": 88,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/collector.py",
+    "symbol": "Collector.status",
+    "line": 90,
+    "end_line": 95,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "ConflictError",
+    "line": 15,
+    "end_line": 16,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "now",
+    "line": 19,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "validate_key",
+    "line": 23,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal",
+    "line": 72,
+    "end_line": 301,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.__init__",
+    "line": 73,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.new_session",
+    "line": 98,
+    "end_line": 106,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.capacity",
+    "line": 108,
+    "end_line": 114,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.find_request",
+    "line": 116,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.admit",
+    "line": 124,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal._event",
+    "line": 141,
+    "end_line": 149,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.finish",
+    "line": 151,
+    "end_line": 198,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.cancel",
+    "line": 200,
+    "end_line": 208,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.recover",
+    "line": 210,
+    "end_line": 217,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.detail",
+    "line": 219,
+    "end_line": 228,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.history",
+    "line": 230,
+    "end_line": 243,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.metrics",
+    "line": 245,
+    "end_line": 253,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.asset",
+    "line": 255,
+    "end_line": 266,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.save_calibration",
+    "line": 268,
+    "end_line": 272,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.calibration",
+    "line": 274,
+    "end_line": 277,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.close",
+    "line": 279,
+    "end_line": 281,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sqlite.py",
+    "symbol": "Journal.record_terminal",
+    "line": 283,
+    "end_line": 301,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender",
+    "line": 9,
+    "end_line": 56,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.__init__",
+    "line": 10,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.post",
+    "line": 16,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.once",
+    "line": 20,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.run",
+    "line": 46,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.start",
+    "line": 53,
+    "end_line": 53,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/journal/sync.py",
+    "symbol": "OutboxSender.close",
+    "line": 54,
+    "end_line": 56,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "UnavailableOccupancy",
+    "line": 14,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "UnavailableOccupancy.__init__",
+    "line": 16,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "UnavailableOccupancy.evaluate",
+    "line": 19,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "load_area_occupancy",
+    "line": 25,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "DarkSurfaceOccupancy",
+    "line": 44,
+    "end_line": 163,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "DarkSurfaceOccupancy.__init__",
+    "line": 50,
+    "end_line": 52,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "DarkSurfaceOccupancy.from_config",
+    "line": 55,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "DarkSurfaceOccupancy.evaluate",
+    "line": 69,
+    "end_line": 163,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "DarkSurfaceOccupancy.evaluate.largest",
+    "line": 146,
+    "end_line": 152,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "BackgroundOccupancy",
+    "line": 166,
+    "end_line": 290,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "BackgroundOccupancy.__init__",
+    "line": 167,
+    "end_line": 183,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "BackgroundOccupancy.from_config",
+    "line": 186,
+    "end_line": 209,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "BackgroundOccupancy.evaluate",
+    "line": 211,
+    "end_line": 260,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "BackgroundOccupancy._exit_residuals",
+    "line": 262,
+    "end_line": 290,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "ClearWindow",
+    "line": 293,
+    "end_line": 346,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "ClearWindow.__init__",
+    "line": 295,
+    "end_line": 301,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "ClearWindow.reset",
+    "line": 303,
+    "end_line": 305,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/area_occupancy.py",
+    "symbol": "ClearWindow.update",
+    "line": 307,
+    "end_line": 346,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "validate_bgr",
+    "line": 11,
+    "end_line": 16,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "_integer",
+    "line": 19,
+    "end_line": 23,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "AuthorizedEmptyReference",
+    "line": 27,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "AuthorizedEmptyReference.__init__",
+    "line": 37,
+    "end_line": 45,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "AuthorizedEmptyReference.image",
+    "line": 48,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "StaticReferenceConfig",
+    "line": 54,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "StaticReferenceConfig.__post_init__",
+    "line": 63,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ProviderStatus",
+    "line": 82,
+    "end_line": 85,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "AmbiguityReason",
+    "line": 88,
+    "end_line": 92,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ComponentEvidence",
+    "line": 96,
+    "end_line": 107,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ComponentEvidence.__post_init__",
+    "line": 102,
+    "end_line": 107,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ProviderResult",
+    "line": 111,
+    "end_line": 150,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ProviderResult.__post_init__",
+    "line": 121,
+    "end_line": 138,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/contracts.py",
+    "symbol": "ProviderResult.to_dict",
+    "line": 140,
+    "end_line": 150,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "validate_conveyor_config",
+    "line": 16,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy",
+    "line": 41,
+    "end_line": 110,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy.__init__",
+    "line": 42,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy.from_config",
+    "line": 47,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy.evaluate",
+    "line": 53,
+    "end_line": 110,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy.evaluate.finish",
+    "line": 60,
+    "end_line": 62,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_occupancy.py",
+    "symbol": "ConveyorSurfaceOccupancy.evaluate.largest",
+    "line": 90,
+    "end_line": 97,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "validate_reference_config",
+    "line": 17,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy",
+    "line": 54,
+    "end_line": 135,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy.from_config",
+    "line": 56,
+    "end_line": 88,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy.rail_support",
+    "line": 90,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy.evaluate",
+    "line": 100,
+    "end_line": 135,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy.evaluate.finish",
+    "line": 106,
+    "end_line": 108,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/conveyor_reference.py",
+    "symbol": "ConveyorReferenceOccupancy.evaluate.largest",
+    "line": 119,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/detector_carrier.py",
+    "symbol": "observe_carrier",
+    "line": 6,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/engine_envelope.py",
+    "symbol": "envelope_provider",
+    "line": 6,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "_corridor_relation",
+    "line": 18,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "StaticReferenceProvider",
+    "line": 29,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "StaticReferenceProvider.__post_init__",
+    "line": 38,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "StaticReferenceProvider.observe",
+    "line": 49,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "StaticReferenceProvider.observe.result",
+    "line": 73,
+    "end_line": 75,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/observation/static_reference.py",
+    "symbol": "StaticReferenceProvider.observe.ambiguous",
+    "line": 77,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/quality/image.py",
+    "symbol": "assess_image",
+    "line": 4,
+    "end_line": 12,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "PackageError",
+    "line": 11,
+    "end_line": 12,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "canonical",
+    "line": 15,
+    "end_line": 16,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "sha256",
+    "line": 19,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "require",
+    "line": 23,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "backend_resolution",
+    "line": 28,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "valid_sha256",
+    "line": 43,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "validate_output_contract",
+    "line": 47,
+    "end_line": 65,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "validate_source_onnx",
+    "line": 68,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "validate_backend",
+    "line": 82,
+    "end_line": 137,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "integer",
+    "line": 140,
+    "end_line": 141,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "box",
+    "line": 144,
+    "end_line": 149,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "validate_recipe",
+    "line": 152,
+    "end_line": 191,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "validate_recipe.reason_code",
+    "line": 167,
+    "end_line": 171,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage",
+    "line": 195,
+    "end_line": 228,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage.backend_resolution",
+    "line": 205,
+    "end_line": 206,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage.backend",
+    "line": 209,
+    "end_line": 210,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage.model_path",
+    "line": 213,
+    "end_line": 214,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage.names",
+    "line": 217,
+    "end_line": 218,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "ProductPackage.snapshot",
+    "line": 220,
+    "end_line": 228,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/recipe/package.py",
+    "symbol": "load_package",
+    "line": 231,
+    "end_line": 297,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ObservationSource",
+    "line": 10,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ObservationSource.observe",
+    "line": 13,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ObservationSource.close",
+    "line": 14,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter",
+    "line": 17,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.clearance",
+    "line": 19,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.disposition_for",
+    "line": 20,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.publish_result",
+    "line": 21,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.recovery_clearance",
+    "line": 22,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.status",
+    "line": 23,
+    "end_line": 23,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "PLCAdapter.close",
+    "line": 24,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ManualObservationSource",
+    "line": 27,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ManualObservationSource.__init__",
+    "line": 30,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ManualObservationSource.observe",
+    "line": 33,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "ManualObservationSource.close",
+    "line": 46,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter",
+    "line": 50,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.__init__",
+    "line": 53,
+    "end_line": 55,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.disposition_for",
+    "line": 57,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.publish_result",
+    "line": 62,
+    "end_line": 65,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.recovery_clearance",
+    "line": 67,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.clearance",
+    "line": 81,
+    "end_line": 88,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.status",
+    "line": 90,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/adapters.py",
+    "symbol": "MockPLCAdapter.close",
+    "line": 95,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime",
+    "line": 19,
+    "end_line": 307,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.__init__",
+    "line": 20,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.start_auto",
+    "line": 40,
+    "end_line": 56,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.stop_auto",
+    "line": 58,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.recover_empty_area",
+    "line": 65,
+    "end_line": 88,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.activate_profile",
+    "line": 90,
+    "end_line": 116,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.start_cycle",
+    "line": 118,
+    "end_line": 119,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime._new_passage",
+    "line": 124,
+    "end_line": 135,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime._complete",
+    "line": 137,
+    "end_line": 151,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime._packet",
+    "line": 153,
+    "end_line": 248,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime._poll_result",
+    "line": 250,
+    "end_line": 259,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime._run",
+    "line": 261,
+    "end_line": 292,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/automatic.py",
+    "symbol": "AutomaticRuntime.status",
+    "line": 294,
+    "end_line": 307,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "WorkerObservationSource",
+    "line": 7,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "WorkerObservationSource.observe",
+    "line": 9,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "WorkerObservationSource.close",
+    "line": 16,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput",
+    "line": 20,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput.__init__",
+    "line": 22,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput.disposition_for",
+    "line": 25,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput.publish_result",
+    "line": 29,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput.status",
+    "line": 32,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_adapters.py",
+    "symbol": "LocalResultOutput.close",
+    "line": 37,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_exit.py",
+    "symbol": "VisionExitPolicy",
+    "line": 5,
+    "end_line": 57,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_exit.py",
+    "symbol": "VisionExitPolicy.__init__",
+    "line": 6,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_exit.py",
+    "symbol": "VisionExitPolicy.reset",
+    "line": 15,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_exit.py",
+    "symbol": "VisionExitPolicy.update",
+    "line": 23,
+    "end_line": 57,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/auto_profile.py",
+    "symbol": "validate_profile",
+    "line": 6,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/bootstrap.py",
+    "symbol": "build_runtime",
+    "line": 13,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "FaultPolicy",
+    "line": 10,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "FaultPolicy.__post_init__",
+    "line": 15,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor",
+    "line": 21,
+    "end_line": 76,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.__init__",
+    "line": 22,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.audit",
+    "line": 33,
+    "end_line": 43,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.disposition",
+    "line": 45,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.fault",
+    "line": 52,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.finish",
+    "line": 65,
+    "end_line": 69,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/cell_supervisor.py",
+    "symbol": "CellSupervisor.status",
+    "line": 71,
+    "end_line": 76,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CycleStart",
+    "line": 11,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CycleStart.__post_init__",
+    "line": 15,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CycleStart.to_dict",
+    "line": 19,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CoordinatorState",
+    "line": 23,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CoordinatorResult",
+    "line": 36,
+    "end_line": 66,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/contracts.py",
+    "symbol": "CoordinatorResult.to_dict",
+    "line": 52,
+    "end_line": 66,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticCamera",
+    "line": 17,
+    "end_line": 42,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticCamera.__init__",
+    "line": 20,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticCamera.capture",
+    "line": 26,
+    "end_line": 39,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticCamera.close",
+    "line": 41,
+    "end_line": 42,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticDetector",
+    "line": 45,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticDetector.__init__",
+    "line": 47,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticDetector.runtime_metadata",
+    "line": 52,
+    "end_line": 53,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticDetector.detect",
+    "line": 55,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "DiagnosticDetector.close",
+    "line": 62,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/diagnostic_devices.py",
+    "symbol": "diagnostic_worker_main",
+    "line": 66,
+    "end_line": 71,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge",
+    "line": 5,
+    "end_line": 108,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge.__init__",
+    "line": 11,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge.submit_window",
+    "line": 20,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge.submit_production",
+    "line": 43,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge.poll",
+    "line": 62,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge._fail",
+    "line": 96,
+    "end_line": 102,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/inspection_bridge.py",
+    "symbol": "InspectionBridge.status",
+    "line": 104,
+    "end_line": 108,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime",
+    "line": 15,
+    "end_line": 326,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.__init__",
+    "line": 16,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._available",
+    "line": 40,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._context",
+    "line": 46,
+    "end_line": 53,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._cycle_fault",
+    "line": 55,
+    "end_line": 57,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._runtime_state",
+    "line": 59,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._identity",
+    "line": 69,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.start_cycle",
+    "line": 80,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._route",
+    "line": 100,
+    "end_line": 126,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.observe",
+    "line": 128,
+    "end_line": 131,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.clearance",
+    "line": 133,
+    "end_line": 145,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._replace_tracking_session",
+    "line": 147,
+    "end_line": 156,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.recover_cycle",
+    "line": 158,
+    "end_line": 196,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.recover_infrastructure",
+    "line": 198,
+    "end_line": 235,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime._run",
+    "line": 237,
+    "end_line": 272,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.status",
+    "line": 274,
+    "end_line": 304,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/integrated.py",
+    "symbol": "IntegratedRuntime.close",
+    "line": 306,
+    "end_line": 326,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/logging_support.py",
+    "symbol": "RuntimeLog",
+    "line": 7,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/logging_support.py",
+    "symbol": "RuntimeLog.__init__",
+    "line": 8,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/logging_support.py",
+    "symbol": "RuntimeLog.close",
+    "line": 16,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/package_replay.py",
+    "symbol": "package_replay_worker_main",
+    "line": 13,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/package_replay.py",
+    "symbol": "package_replay_worker_main.PackageReplayCamera",
+    "line": 24,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/package_replay.py",
+    "symbol": "package_replay_worker_main.PackageReplayCamera.capture",
+    "line": 27,
+    "end_line": 31,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime",
+    "line": 32,
+    "end_line": 810,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.__init__",
+    "line": 33,
+    "end_line": 82,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._event",
+    "line": 84,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.start_auto",
+    "line": 96,
+    "end_line": 131,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.stop_auto",
+    "line": 133,
+    "end_line": 145,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.configure_zone",
+    "line": 147,
+    "end_line": 166,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.mock_action",
+    "line": 168,
+    "end_line": 189,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.recover_empty_area",
+    "line": 191,
+    "end_line": 203,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.start_cycle",
+    "line": 205,
+    "end_line": 205,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.observe",
+    "line": 206,
+    "end_line": 206,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.clearance",
+    "line": 207,
+    "end_line": 207,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._absence_ready",
+    "line": 209,
+    "end_line": 211,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._fault",
+    "line": 213,
+    "end_line": 218,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._preview_area",
+    "line": 220,
+    "end_line": 225,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._area_approval_current",
+    "line": 227,
+    "end_line": 233,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.approve_area_reference",
+    "line": 235,
+    "end_line": 250,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._observe_area",
+    "line": 252,
+    "end_line": 264,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._area_transaction_block",
+    "line": 266,
+    "end_line": 279,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._area_clearance",
+    "line": 281,
+    "end_line": 299,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._reset_departure_candidate",
+    "line": 301,
+    "end_line": 304,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._observe_departure_edge",
+    "line": 306,
+    "end_line": 385,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._packet",
+    "line": 387,
+    "end_line": 405,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._diagnostic_state",
+    "line": 407,
+    "end_line": 419,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._apply_packet",
+    "line": 421,
+    "end_line": 570,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._observation_hold",
+    "line": 572,
+    "end_line": 574,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._auto_request_for_track",
+    "line": 576,
+    "end_line": 597,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._auto_request_off_after_done",
+    "line": 599,
+    "end_line": 613,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._snapshot_plc_request_track",
+    "line": 615,
+    "end_line": 626,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._trigger",
+    "line": 628,
+    "end_line": 672,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._poll_result",
+    "line": 674,
+    "end_line": 704,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._plc_v2_ready",
+    "line": 706,
+    "end_line": 715,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._poll_plc",
+    "line": 717,
+    "end_line": 731,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime._run",
+    "line": 733,
+    "end_line": 763,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.status",
+    "line": 765,
+    "end_line": 798,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production.py",
+    "symbol": "ProductionRuntime.close",
+    "line": 800,
+    "end_line": 810,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production_profile.py",
+    "symbol": "calibration_sha",
+    "line": 8,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production_profile.py",
+    "symbol": "validate_zone",
+    "line": 12,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production_profile.py",
+    "symbol": "tracker_config",
+    "line": 24,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/production_profile.py",
+    "symbol": "proposed_zone",
+    "line": 30,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "arrival_evidence",
+    "line": 21,
+    "end_line": 33,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime",
+    "line": 36,
+    "end_line": 513,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime.__init__",
+    "line": 43,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime.start_auto",
+    "line": 60,
+    "end_line": 61,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._fault",
+    "line": 63,
+    "end_line": 70,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._observation_issue",
+    "line": 72,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._reset_unbound_observation",
+    "line": 96,
+    "end_line": 103,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._observation_hold",
+    "line": 105,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime.stop_auto",
+    "line": 127,
+    "end_line": 133,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._profile_ready",
+    "line": 135,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._clear",
+    "line": 141,
+    "end_line": 146,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._area_transaction_block",
+    "line": 148,
+    "end_line": 168,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._cancel_pending",
+    "line": 170,
+    "end_line": 176,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._poll_plc",
+    "line": 178,
+    "end_line": 228,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._poll_legacy_plc",
+    "line": 230,
+    "end_line": 264,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._trigger",
+    "line": 266,
+    "end_line": 303,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._trigger_legacy",
+    "line": 305,
+    "end_line": 333,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._finish_without_frames",
+    "line": 335,
+    "end_line": 352,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._commit_and_publish",
+    "line": 354,
+    "end_line": 386,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._poll_result",
+    "line": 388,
+    "end_line": 432,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._acquisition",
+    "line": 434,
+    "end_line": 447,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._recover_camera",
+    "line": 449,
+    "end_line": 460,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime._run",
+    "line": 462,
+    "end_line": 487,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime.status",
+    "line": 489,
+    "end_line": 507,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone.py",
+    "symbol": "StandaloneRuntime.close",
+    "line": 509,
+    "end_line": 513,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "line_view",
+    "line": 7,
+    "end_line": 64,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web",
+    "line": 67,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web.read_only_field_ui",
+    "line": 69,
+    "end_line": 72,
+    "routes": [
+      {
+        "method": "MIDDLEWARE",
+        "path": "http"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web.release",
+    "line": 75,
+    "end_line": 75,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/release"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web.view",
+    "line": 78,
+    "end_line": 78,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/line/view"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web.final",
+    "line": 81,
+    "end_line": 87,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/line/final/{identifier}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/src/runtime/standalone_web.py",
+    "symbol": "configure_line_web.line",
+    "line": 92,
+    "end_line": 98,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/line"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator",
+    "line": 10,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.__init__",
+    "line": 19,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.runtime_session_id",
+    "line": 28,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.active_cycle",
+    "line": 32,
+    "end_line": 33,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator._projection",
+    "line": 35,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator._result",
+    "line": 50,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.start_cycle",
+    "line": 70,
+    "end_line": 82,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.route",
+    "line": 84,
+    "end_line": 125,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/runtime/vision_coordinator.py",
+    "symbol": "VisionRuntimeCoordinator.mark_inspected",
+    "line": 127,
+    "end_line": 139,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "require_text",
+    "line": 12,
+    "end_line": 16,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "require_number",
+    "line": 19,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "require_integer",
+    "line": 30,
+    "end_line": 34,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackState",
+    "line": 37,
+    "end_line": 44,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "WindowRelation",
+    "line": 47,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingReason",
+    "line": 53,
+    "end_line": 66,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingError",
+    "line": 69,
+    "end_line": 72,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingError.__init__",
+    "line": 70,
+    "end_line": 72,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox",
+    "line": 76,
+    "end_line": 105,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox.__post_init__",
+    "line": 82,
+    "end_line": 89,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox.center_x",
+    "line": 92,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox.center_y",
+    "line": 96,
+    "end_line": 97,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox.width",
+    "line": 100,
+    "end_line": 101,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "NormalizedBox.height",
+    "line": 104,
+    "end_line": 105,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "InspectionWindow",
+    "line": 109,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "InspectionWindow.__post_init__",
+    "line": 112,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "ProductObservation",
+    "line": 119,
+    "end_line": 126,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "ProductObservation.__post_init__",
+    "line": 123,
+    "end_line": 126,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingFrame",
+    "line": 130,
+    "end_line": 141,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingFrame.__post_init__",
+    "line": 136,
+    "end_line": 141,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "SingleActiveTrackerConfig",
+    "line": 145,
+    "end_line": 191,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "SingleActiveTrackerConfig.__post_init__",
+    "line": 162,
+    "end_line": 191,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "InspectionWindowEvent",
+    "line": 195,
+    "end_line": 209,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "InspectionWindowEvent.__post_init__",
+    "line": 201,
+    "end_line": 205,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "InspectionWindowEvent.to_dict",
+    "line": 207,
+    "end_line": 209,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingUpdate",
+    "line": 213,
+    "end_line": 249,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingUpdate.__post_init__",
+    "line": 225,
+    "end_line": 240,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/contracts.py",
+    "symbol": "TrackingUpdate.to_dict",
+    "line": 242,
+    "end_line": 249,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker",
+    "line": 15,
+    "end_line": 254,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.__init__",
+    "line": 16,
+    "end_line": 23,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker._clear_active",
+    "line": 25,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker._update",
+    "line": 42,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker._lose",
+    "line": 50,
+    "end_line": 57,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.wait_for_area_clear",
+    "line": 59,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.resume_short_ambiguity",
+    "line": 70,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker._position",
+    "line": 98,
+    "end_line": 120,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.step",
+    "line": 122,
+    "end_line": 208,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker._empty_frame",
+    "line": 210,
+    "end_line": 225,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.prepare_visual_clearance",
+    "line": 227,
+    "end_line": 231,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.mark_inspected",
+    "line": 233,
+    "end_line": 247,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/tracking/single_active.py",
+    "symbol": "SingleActiveTracker.reset_lost",
+    "line": 249,
+    "end_line": 254,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector",
+    "line": 9,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector.__init__",
+    "line": 10,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector._save",
+    "line": 15,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector._run",
+    "line": 30,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector.result",
+    "line": 52,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/assembly_inspection.py",
+    "symbol": "AssemblyInspector.status",
+    "line": 56,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/auto_inspection.py",
+    "symbol": "box_values",
+    "line": 7,
+    "end_line": 8,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/auto_inspection.py",
+    "symbol": "validate_bound_frame",
+    "line": 11,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/auto_inspection.py",
+    "symbol": "automatic_coverage",
+    "line": 32,
+    "end_line": 59,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntimeError",
+    "line": 7,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntimeError.__init__",
+    "line": 8,
+    "end_line": 10,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime",
+    "line": 13,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.__init__",
+    "line": 15,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime._call",
+    "line": 37,
+    "end_line": 46,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime._size",
+    "line": 49,
+    "end_line": 51,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.set_device",
+    "line": 53,
+    "end_line": 56,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime._allocate",
+    "line": 58,
+    "end_line": 64,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.allocate_device",
+    "line": 66,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.allocate_host",
+    "line": 69,
+    "end_line": 70,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.free_device",
+    "line": 72,
+    "end_line": 73,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.free_host",
+    "line": 75,
+    "end_line": 76,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.create_stream",
+    "line": 78,
+    "end_line": 83,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.synchronize",
+    "line": 85,
+    "end_line": 86,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.destroy_stream",
+    "line": 88,
+    "end_line": 89,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/cuda_runtime_ctypes.py",
+    "symbol": "CudaRuntime.copy_async",
+    "line": 91,
+    "end_line": 96,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/detector_factory.py",
+    "symbol": "RuntimeDetector",
+    "line": 8,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/detector_factory.py",
+    "symbol": "RuntimeDetector.runtime_metadata",
+    "line": 11,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/detector_factory.py",
+    "symbol": "RuntimeDetector.close",
+    "line": 15,
+    "end_line": 17,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/detector_factory.py",
+    "symbol": "create_detector",
+    "line": 20,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "validate_request",
+    "line": 30,
+    "end_line": 49,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture",
+    "line": 52,
+    "end_line": 296,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.__init__",
+    "line": 53,
+    "end_line": 69,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.recording",
+    "line": 72,
+    "end_line": 73,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.start",
+    "line": 75,
+    "end_line": 116,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.tick",
+    "line": 118,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.capture",
+    "line": 124,
+    "end_line": 148,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.observe",
+    "line": 150,
+    "end_line": 166,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.stop",
+    "line": 168,
+    "end_line": 172,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.wait",
+    "line": 174,
+    "end_line": 177,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture.status",
+    "line": 179,
+    "end_line": 187,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture._payload",
+    "line": 189,
+    "end_line": 221,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture._persist_payload",
+    "line": 223,
+    "end_line": 235,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture._write",
+    "line": 237,
+    "end_line": 296,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/diagnostic_capture.py",
+    "symbol": "DiagnosticCapture._write.save",
+    "line": 239,
+    "end_line": 248,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector",
+    "line": 16,
+    "end_line": 121,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector.__init__",
+    "line": 17,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector.detect",
+    "line": 38,
+    "end_line": 87,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector.motion",
+    "line": 89,
+    "end_line": 99,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector.observe_product",
+    "line": 101,
+    "end_line": 119,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "EngineInspector.close",
+    "line": 121,
+    "end_line": 121,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "conveyor_frame_gate",
+    "line": 124,
+    "end_line": 150,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "conveyor_incomplete_result",
+    "line": 153,
+    "end_line": 160,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "assess_dynamic",
+    "line": 163,
+    "end_line": 207,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "assess_dynamic.review",
+    "line": 172,
+    "end_line": 176,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "dynamic_reference",
+    "line": 210,
+    "end_line": 226,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "draw_engine_overlay",
+    "line": 229,
+    "end_line": 284,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_inspector.py",
+    "symbol": "draw_engine_overlay.label",
+    "line": 234,
+    "end_line": 236,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "PoseResult",
+    "line": 10,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "_xyxy",
+    "line": 22,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "_poly",
+    "line": 28,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "transform_polygon",
+    "line": 32,
+    "end_line": 33,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "_expanded_mask",
+    "line": 35,
+    "end_line": 38,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator",
+    "line": 40,
+    "end_line": 150,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator.__init__",
+    "line": 41,
+    "end_line": 62,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator._gray",
+    "line": 64,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator.estimate",
+    "line": 70,
+    "end_line": 84,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator.estimate.selected",
+    "line": 72,
+    "end_line": 74,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator._estimate",
+    "line": 86,
+    "end_line": 137,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator._estimate.rejected",
+    "line": 96,
+    "end_line": 98,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator.current_slots",
+    "line": 139,
+    "end_line": 144,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_pose.py",
+    "symbol": "EnginePoseEstimator.visibility_slots",
+    "line": 146,
+    "end_line": 150,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_rectification.py",
+    "symbol": "rectify_image",
+    "line": 7,
+    "end_line": 16,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/engine_rectification.py",
+    "symbol": "restore_detections",
+    "line": 18,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "put_latest",
+    "line": 24,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "encode_evidence",
+    "line": 38,
+    "end_line": 86,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main",
+    "line": 89,
+    "end_line": 451,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main.preview_frame",
+    "line": 103,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main.detect_frame",
+    "line": 124,
+    "end_line": 193,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main.capture_frame",
+    "line": 195,
+    "end_line": 199,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main.pulse",
+    "line": 200,
+    "end_line": 202,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/inspection_worker.py",
+    "symbol": "worker_main.progress",
+    "line": 280,
+    "end_line": 286,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/integrated_decision.py",
+    "symbol": "combine_decisions",
+    "line": 6,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "sha",
+    "line": 18,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "verify_assets",
+    "line": 22,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "load_frozen_models",
+    "line": 31,
+    "end_line": 37,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver",
+    "line": 40,
+    "end_line": 174,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.__init__",
+    "line": 41,
+    "end_line": 52,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.checked_id",
+    "line": 55,
+    "end_line": 58,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver._save",
+    "line": 60,
+    "end_line": 67,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.evidence_path",
+    "line": 69,
+    "end_line": 75,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.submit",
+    "line": 77,
+    "end_line": 87,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver._run",
+    "line": 89,
+    "end_line": 100,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.process_one",
+    "line": 102,
+    "end_line": 165,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.status",
+    "line": 167,
+    "end_line": 168,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/misassembly_shadow.py",
+    "symbol": "ShadowObserver.close",
+    "line": 170,
+    "end_line": 174,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/production_binding.py",
+    "symbol": "motion_cycle_matches",
+    "line": 6,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/production_binding.py",
+    "symbol": "verify_observations",
+    "line": 12,
+    "end_line": 46,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector",
+    "line": 11,
+    "end_line": 87,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector.__init__",
+    "line": 12,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector._observe_input",
+    "line": 49,
+    "end_line": 50,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector.runtime_metadata",
+    "line": 52,
+    "end_line": 61,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector.close",
+    "line": 63,
+    "end_line": 65,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/pytorch_detector.py",
+    "symbol": "PyTorchDetector.detect",
+    "line": 67,
+    "end_line": 87,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTExecutor",
+    "line": 13,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTExecutor.execute",
+    "line": 19,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTExecutor.runtime_metadata",
+    "line": 20,
+    "end_line": 20,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTExecutor.close",
+    "line": 21,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTDetector",
+    "line": 24,
+    "end_line": 111,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTDetector.__init__",
+    "line": 25,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTDetector.detect",
+    "line": 38,
+    "end_line": 81,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTDetector.runtime_metadata",
+    "line": 83,
+    "end_line": 99,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_detector.py",
+    "symbol": "TensorRTDetector.close",
+    "line": 101,
+    "end_line": 111,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor",
+    "line": 14,
+    "end_line": 224,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor.__init__",
+    "line": 16,
+    "end_line": 91,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor._validate_io",
+    "line": 93,
+    "end_line": 128,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor._synchronize",
+    "line": 130,
+    "end_line": 136,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor.execute",
+    "line": 138,
+    "end_line": 180,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor.runtime_metadata",
+    "line": 182,
+    "end_line": 189,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_native.py",
+    "symbol": "NativeTensorRTExecutor.close",
+    "line": 191,
+    "end_line": 224,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_postprocess.py",
+    "symbol": "postprocess",
+    "line": 8,
+    "end_line": 81,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_preprocess.py",
+    "symbol": "ImageTransform",
+    "line": 11,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/src/vision/tensorrt_preprocess.py",
+    "symbol": "preprocess",
+    "line": 18,
+    "end_line": 43,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "utc_now",
+    "line": 20,
+    "end_line": 21,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "digest",
+    "line": 24,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "atomic_write",
+    "line": 28,
+    "end_line": 43,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BusyError",
+    "line": 46,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker",
+    "line": 50,
+    "end_line": 260,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker.__init__",
+    "line": 51,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker.snapshot",
+    "line": 65,
+    "end_line": 76,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker.submit",
+    "line": 78,
+    "end_line": 100,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker.confirm_calibration",
+    "line": 102,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker._preview",
+    "line": 117,
+    "end_line": 126,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker._quality",
+    "line": 128,
+    "end_line": 130,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker._execute",
+    "line": 132,
+    "end_line": 201,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "BenchWorker.run",
+    "line": 203,
+    "end_line": 260,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler",
+    "line": 263,
+    "end_line": 321,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler.Handler",
+    "line": 264,
+    "end_line": 320,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler.Handler.respond",
+    "line": 265,
+    "end_line": 277,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler.Handler.do_GET",
+    "line": 279,
+    "end_line": 293,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler.Handler.do_POST",
+    "line": 295,
+    "end_line": 316,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "make_handler.Handler.log_message",
+    "line": 318,
+    "end_line": 320,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "main",
+    "line": 324,
+    "end_line": 349,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/bench.py",
+    "symbol": "main.stop",
+    "line": 337,
+    "end_line": 339,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace",
+    "line": 14,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace.__init__",
+    "line": 16,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace.write",
+    "line": 24,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace.flush",
+    "line": 28,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace._run",
+    "line": 32,
+    "end_line": 42,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "AsyncTrace.close",
+    "line": 44,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController",
+    "line": 51,
+    "end_line": 128,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.__init__",
+    "line": 52,
+    "end_line": 59,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.update",
+    "line": 61,
+    "end_line": 69,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.start",
+    "line": 71,
+    "end_line": 94,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.stop",
+    "line": 96,
+    "end_line": 100,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.worker_exited",
+    "line": 102,
+    "end_line": 111,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.record",
+    "line": 113,
+    "end_line": 123,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/diagnostic_controller.py",
+    "symbol": "DiagnosticController.close",
+    "line": 125,
+    "end_line": 128,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag",
+    "line": 22,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag.__init__",
+    "line": 24,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag.set",
+    "line": 25,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag.clear",
+    "line": 26,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag.is_set",
+    "line": 27,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "ProcessFlag.wait",
+    "line": 28,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService",
+    "line": 35,
+    "end_line": 585,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.__init__",
+    "line": 36,
+    "end_line": 74,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._calibration_matches",
+    "line": 76,
+    "end_line": 85,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._load_calibration",
+    "line": 87,
+    "end_line": 92,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._latest_reference_id",
+    "line": 94,
+    "end_line": 103,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._launch",
+    "line": 105,
+    "end_line": 120,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._stop_worker",
+    "line": 122,
+    "end_line": 129,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._record_request_failure",
+    "line": 131,
+    "end_line": 148,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._fault",
+    "line": 150,
+    "end_line": 165,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._monitor",
+    "line": 167,
+    "end_line": 176,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._monitor_loop",
+    "line": 178,
+    "end_line": 288,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.status",
+    "line": 290,
+    "end_line": 317,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.allocate_request",
+    "line": 319,
+    "end_line": 327,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.submit",
+    "line": 329,
+    "end_line": 421,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService._result_context_error",
+    "line": 423,
+    "end_line": 430,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.lab_action",
+    "line": 432,
+    "end_line": 462,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.live_control",
+    "line": 464,
+    "end_line": 479,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.cancel",
+    "line": 481,
+    "end_line": 487,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.confirm_calibration",
+    "line": 489,
+    "end_line": 503,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.activate",
+    "line": 505,
+    "end_line": 557,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.close",
+    "line": 559,
+    "end_line": 585,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection.py",
+    "symbol": "InspectionService.close.cleanup",
+    "line": 564,
+    "end_line": 568,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app",
+    "line": 17,
+    "end_line": 165,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.lifespan",
+    "line": 19,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.protect",
+    "line": 27,
+    "end_line": 34,
+    "routes": [
+      {
+        "method": "MIDDLEWARE",
+        "path": "http"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.conflict",
+    "line": 37,
+    "end_line": 37,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.invalid",
+    "line": 40,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.storage",
+    "line": 43,
+    "end_line": 43,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.home",
+    "line": 46,
+    "end_line": 46,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.inspection_details",
+    "line": 49,
+    "end_line": 50,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/inspection_details.js"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.inspection_lab",
+    "line": 53,
+    "end_line": 54,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/inspection_lab.js"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.lab",
+    "line": 57,
+    "end_line": 57,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/lab/{action}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.live",
+    "line": 60,
+    "end_line": 60,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/live/{action}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.session",
+    "line": 63,
+    "end_line": 63,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/session"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.status",
+    "line": 67,
+    "end_line": 67,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/health"
+      },
+      {
+        "method": "GET",
+        "path": "/api/v1/cell/status"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.preview",
+    "line": 70,
+    "end_line": 78,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/preview.jpg"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.inspect",
+    "line": 81,
+    "end_line": 83,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/inspection-jobs"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.allocate",
+    "line": 86,
+    "end_line": 86,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/request-identity"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.mock",
+    "line": 89,
+    "end_line": 103,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/mock/{action}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.job_key",
+    "line": 106,
+    "end_line": 111,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/inspection-jobs/{cell}/{session_id}/{request_id}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.history",
+    "line": 114,
+    "end_line": 115,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/inspections"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.detail",
+    "line": 118,
+    "end_line": 125,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/inspections/{identifier}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.cancel",
+    "line": 128,
+    "end_line": 128,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/inspections/{identifier}/cancel"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.confirm",
+    "line": 131,
+    "end_line": 131,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/calibrations/{identifier}/confirm"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.asset",
+    "line": 134,
+    "end_line": 138,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/assets/{identifier}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.metrics",
+    "line": 141,
+    "end_line": 141,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/metrics"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.timings",
+    "line": 144,
+    "end_line": 147,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/timings"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.packages",
+    "line": 150,
+    "end_line": 158,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/packages"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "create_app.activate",
+    "line": 161,
+    "end_line": 163,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/packages/activate"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/inspection_api.py",
+    "symbol": "main",
+    "line": 168,
+    "end_line": 192,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integrated_runtime.py",
+    "symbol": "main",
+    "line": 10,
+    "end_line": 52,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app",
+    "line": 13,
+    "end_line": 161,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.shadow_result",
+    "line": 17,
+    "end_line": 24,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/runtime/shadow/{inspection_id}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.shadow_image",
+    "line": 27,
+    "end_line": 34,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/runtime/shadow/{inspection_id}/images/{name}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.lifespan",
+    "line": 37,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.log_request_error",
+    "line": 46,
+    "end_line": 55,
+    "routes": [
+      {
+        "method": "MIDDLEWARE",
+        "path": "http"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.guard_existing_mutation",
+    "line": 57,
+    "end_line": 72,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.guard_existing_mutation.guarded",
+    "line": 59,
+    "end_line": 71,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.status",
+    "line": 81,
+    "end_line": 82,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/runtime/status"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.capture_status",
+    "line": 85,
+    "end_line": 87,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/api/v1/diagnostics/capture"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.capture_start",
+    "line": 90,
+    "end_line": 96,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/diagnostics/capture/start"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.capture_stop",
+    "line": 99,
+    "end_line": 101,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/diagnostics/capture/stop"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.auto_hmi",
+    "line": 107,
+    "end_line": 108,
+    "routes": [
+      {
+        "method": "GET",
+        "path": "/auto"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.auto_start",
+    "line": 111,
+    "end_line": 112,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/auto/start"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.auto_stop",
+    "line": 115,
+    "end_line": 116,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/auto/stop"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.recover_empty_area",
+    "line": 119,
+    "end_line": 120,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/auto/recover-empty-area"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.approve_area_reference",
+    "line": 124,
+    "end_line": 124,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/production/area-reference/approve"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.production_zone",
+    "line": 127,
+    "end_line": 127,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/production/zone"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.production_mock",
+    "line": 130,
+    "end_line": 130,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/production/mock/{action}"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.start",
+    "line": 133,
+    "end_line": 135,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/cycles"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.observe",
+    "line": 138,
+    "end_line": 139,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/observations"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.clearance",
+    "line": 142,
+    "end_line": 143,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/clearance"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.recover_cycle",
+    "line": 146,
+    "end_line": 147,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/recover-cycle"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.recover_infrastructure",
+    "line": 150,
+    "end_line": 151,
+    "routes": [
+      {
+        "method": "POST",
+        "path": "/api/v1/runtime/recover-infrastructure"
+      }
+    ]
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.missing",
+    "line": 154,
+    "end_line": 155,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/integration_api.py",
+    "symbol": "create_integrated_app.invalid_type",
+    "line": 158,
+    "end_line": 159,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort",
+    "line": 5,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.__init__",
+    "line": 6,
+    "end_line": 6,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.start",
+    "line": 8,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.poll",
+    "line": 27,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.cancel",
+    "line": 31,
+    "end_line": 33,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.event",
+    "line": 35,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/lab_port.py",
+    "symbol": "ServiceLabPort.publication",
+    "line": 43,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort",
+    "line": 6,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.__init__",
+    "line": 7,
+    "end_line": 7,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.recover",
+    "line": 9,
+    "end_line": 15,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.prepare",
+    "line": 17,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.submit",
+    "line": 24,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.healthy",
+    "line": 26,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.poll",
+    "line": 30,
+    "end_line": 32,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.cancel",
+    "line": 34,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.ack_result",
+    "line": 38,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/current/apps/edge_service/mock_port.py",
+    "symbol": "ServiceMockPort.terminal",
+    "line": 50,
+    "end_line": 60,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/absolute_body_seed.py",
+    "symbol": "estimate_body_seed",
+    "line": 10,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "transform",
+    "line": 13,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator",
+    "line": 17,
+    "end_line": 153,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator.__init__",
+    "line": 18,
+    "end_line": 24,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator.rejected",
+    "line": 27,
+    "end_line": 29,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator.seed",
+    "line": 31,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator.estimate",
+    "line": 56,
+    "end_line": 135,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/body_motion.py",
+    "symbol": "BodyMotionEstimator.advance_keyframe",
+    "line": 137,
+    "end_line": 153,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "write_json",
+    "line": 31,
+    "end_line": 34,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "ShadowModels",
+    "line": 37,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "ShadowModels.__init__",
+    "line": 38,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "ShadowModels._instrument",
+    "line": 56,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "ShadowModels._instrument.measured",
+    "line": 58,
+    "end_line": 62,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "ShadowModels.process",
+    "line": 65,
+    "end_line": 93,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "main",
+    "line": 96,
+    "end_line": 215,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "main.Handler",
+    "line": 113,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "main.Handler.__init__",
+    "line": 114,
+    "end_line": 114,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "main.Handler.log_message",
+    "line": 115,
+    "end_line": 115,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live.py",
+    "symbol": "main.received",
+    "line": 128,
+    "end_line": 128,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live_observation.py",
+    "symbol": "ThreeFrameObservation",
+    "line": 5,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live_observation.py",
+    "symbol": "ThreeFrameObservation.__init__",
+    "line": 6,
+    "end_line": 8,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/live_observation.py",
+    "symbol": "ThreeFrameObservation.add",
+    "line": 10,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "dump",
+    "line": 25,
+    "end_line": 25,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "sync",
+    "line": 26,
+    "end_line": 26,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "main",
+    "line": 29,
+    "end_line": 101,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "main.classify",
+    "line": 40,
+    "end_line": 41,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "main.timed",
+    "line": 48,
+    "end_line": 55,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/offline.py",
+    "symbol": "main.timed.call",
+    "line": 50,
+    "end_line": 54,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/policy.py",
+    "symbol": "aggregate_frame",
+    "line": 8,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/policy.py",
+    "symbol": "compare_case",
+    "line": 22,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "FrameContext",
+    "line": 13,
+    "end_line": 19,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard",
+    "line": 22,
+    "end_line": 108,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard.__init__",
+    "line": 25,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard.reset",
+    "line": 32,
+    "end_line": 36,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard.reject",
+    "line": 38,
+    "end_line": 40,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard.requires_seed",
+    "line": 42,
+    "end_line": 47,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/pose_stability.py",
+    "symbol": "TemporalPoseGuard.choose",
+    "line": 49,
+    "end_line": 108,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "reciprocal_pairs",
+    "line": 11,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "spatial_support",
+    "line": 17,
+    "end_line": 30,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "safe_inspection_zone",
+    "line": 33,
+    "end_line": 63,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "ShadowTrackRecovery",
+    "line": 66,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "ShadowTrackRecovery.__init__",
+    "line": 73,
+    "end_line": 80,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robustness.py",
+    "symbol": "ShadowTrackRecovery.step",
+    "line": 82,
+    "end_line": 122,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "ReciprocalMatcher",
+    "line": 15,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "ReciprocalMatcher.__init__",
+    "line": 16,
+    "end_line": 18,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "ReciprocalMatcher.knnMatch",
+    "line": 19,
+    "end_line": 22,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "CachedFeatures",
+    "line": 25,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "CachedFeatures.__init__",
+    "line": 26,
+    "end_line": 27,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "CachedFeatures.detectAndCompute",
+    "line": 28,
+    "end_line": 28,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "RobustShadowPreprocessor",
+    "line": 31,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/robust_preprocessing.py",
+    "symbol": "RobustShadowPreprocessor.process",
+    "line": 34,
+    "end_line": 78,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "region_agreement",
+    "line": 13,
+    "end_line": 35,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticBodyMotionEstimator",
+    "line": 37,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticBodyMotionEstimator.estimate",
+    "line": 38,
+    "end_line": 48,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticPoseGuard",
+    "line": 50,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticPoseGuard.__init__",
+    "line": 53,
+    "end_line": 55,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticPoseGuard.reset",
+    "line": 57,
+    "end_line": 59,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_geometry.py",
+    "symbol": "StaticPoseGuard.reject",
+    "line": 61,
+    "end_line": 68,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_models.py",
+    "symbol": "StaticShadowModels",
+    "line": 5,
+    "end_line": 8,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/static_models.py",
+    "symbol": "StaticShadowModels.__init__",
+    "line": 6,
+    "end_line": 8,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_models.py",
+    "symbol": "TemporalShadowModels",
+    "line": 6,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_models.py",
+    "symbol": "TemporalShadowModels.__init__",
+    "line": 7,
+    "end_line": 9,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_models.py",
+    "symbol": "TemporalShadowModels.process",
+    "line": 11,
+    "end_line": 13,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_preprocessing.py",
+    "symbol": "TemporalShadowPreprocessor",
+    "line": 9,
+    "end_line": 79,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_preprocessing.py",
+    "symbol": "TemporalShadowPreprocessor.__init__",
+    "line": 10,
+    "end_line": 14,
+    "routes": []
+  },
+  {
+    "file": "runtime_source/frozen_assembly/temporal_preprocessing.py",
+    "symbol": "TemporalShadowPreprocessor.process",
+    "line": 16,
+    "end_line": 79,
+    "routes": []
+  }
+]

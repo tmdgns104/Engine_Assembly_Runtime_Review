@@ -1,0 +1,12 @@
+*.db
+*.sqlite*
+*.pt
+*.pth
+*.onnx
+*.engine
+*.zip
+*.tar*
+*.pyc
+__pycache__/
+.env
+private_evidence/

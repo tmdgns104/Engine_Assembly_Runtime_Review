@@ -1,0 +1,13 @@
+{
+  "package": "../assets/products/ENGINE_Z3005_5/dynamic_parts_005",
+  "station": "station.json",
+  "data_root": "../data/engine_dynamic_pose_002",
+  "pythonpath": "../env_candidates/numpy_compat_001/overlay",
+  "line_profile": "line_profile.json",
+  "plc_ip": "192.168.50.3",
+  "plc_local_ip": "192.168.50.2",
+  "listen_host": "0.0.0.0",
+  "port": 18771,
+  "plc_contract": "LEGACY_THREE_BOOL",
+  "legacy_publication_enabled": false
+}

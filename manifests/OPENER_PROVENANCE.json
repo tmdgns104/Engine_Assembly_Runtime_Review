@@ -1,0 +1,52 @@
+{
+  "candidate_archive_sha256": "de135a52193ac9704616d45a69d03173b2a78f9e4469d2e738b0712a7f79cb5a",
+  "candidate_archive_not_uploaded": true,
+  "installed_binary_sha256": "f7a4397905470e057f4777dedd4b05916a3826aea60feb7a14c662e5d11be773",
+  "files": [
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\OPENER_4_8_ISOLATED_VERIFICATION_REPORT.md",
+      "review_path": "opener_reference/original_isolated_report.md",
+      "sha256": "6c9ab5c22663a22d6dd1f855ea2e6ec34e3f6f4f4709c6c1a3070b1c4bd6454b"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\VERIFICATION_RESULT.json",
+      "review_path": "opener_reference/original_verification.json",
+      "sha256": "860818e3b457ae3c91c3bc656e5967171777ba3023a2f3ce57514a4cd7c6b982"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\native_verified\\profile\\PROFILE.json",
+      "review_path": "opener_reference/candidate_PROFILE.json",
+      "sha256": "bff13d9992fdf7f73a549f201ae8503e4573ec0c15b3f5c91847a7c9f1dee83d"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\native_verified\\profile\\Engine_Jetson_OpENer.eds",
+      "review_path": "opener_reference/Engine_Jetson_OpENer.eds",
+      "sha256": "78c0a78cb4f3e43da8090d41cdddfa14aa86dac7212f229104c0e75f02071b01"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\native_verified\\profile\\source\\src\\ports\\POSIX\\sample_application\\sampleapplication.c",
+      "review_path": "opener_reference/candidate_sampleapplication.c",
+      "sha256": "34e11dc5aa63cdc4a9bae2ef04c083d3a54c72f49cf37d8e9b2d658628e7420f"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\work\\notebook\\deployment\\opener\\engine_callbacks.c.inc",
+      "review_path": "opener_reference/engine_callbacks.c.inc",
+      "sha256": "ecccb21e9fd6928645236ecc2d710f9f200e0d750ca3ae611024ce0fcf1e2427"
+    },
+    {
+      "source": "D:\\OneDevice_Team_project\\runs\\engine_standalone_plc_autostart_001\\v001_20261007T052746Z\\tag_data_link_008\\grouped_adapter_009\\OPENER_SOURCE.diff",
+      "review_path": "opener_reference/OPENER_SOURCE.diff",
+      "sha256": "76800b31879a221224830d972fed31f7f92bcb40a6ae1eb0c822425e9d49887d"
+    },
+    {
+      "source": "/home/jetson/oned_device_bench/envs/opener/share/PROFILE.json",
+      "review_path": "opener_reference/installed_PROFILE.json",
+      "sha256": "6929d683900bb129a28433828ef1a9529d912a07b6ce944bde8d402e318d66f7"
+    },
+    {
+      "source": "/home/jetson/oned_device_bench/envs/opener/share/Engine_Jetson_OpENer.eds",
+      "review_path": "opener_reference/installed_Engine_Jetson_OpENer.eds",
+      "sha256": "1040da161ed34326a247dacc75f674ebcd9c68d0e7ee299e986c6574e99a5da1"
+    }
+  ]
+}

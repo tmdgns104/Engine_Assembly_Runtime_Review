@@ -1,0 +1,25 @@
+{
+  "utc": "2026-10-13T06:52:50.449938+00:00",
+  "service_show": "MainPID=1082\nNRestarts=0\nExecStart={ path=/home/jetson/oned_device_bench/envs/app_v1/bin/python ; argv[]=/home/jetson/oned_device_bench/envs/app_v1/bin/python -B -X utf8 /home/jetson/oned_device_bench/current/standalone_service.py --config /home/jetson/oned_device_bench/config/standalone.json ; ignore_errors=no ; start_time=[Tue 2026-10-13 15:07:52 KST] ; stop_time=[n/a] ; pid=1082 ; code=(null) ; status=0/0 }\nWorkingDirectory=/home/jetson/oned_device_bench/current\nUser=jetson\nActiveState=active\nSubState=running\nFragmentPath=/etc/systemd/system/engine-inspector.service\nUnitFileState=enabled\n",
+  "processes": [
+    {
+      "pid": 1082,
+      "cmdline": "/home/jetson/oned_device_bench/envs/app_v1/bin/python -B -X utf8 /home/jetson/oned_device_bench/current/standalone_service.py --config /home/jetson/oned_device_bench/config/standalone.json",
+      "exe": "/usr/bin/python3.10",
+      "cwd": "/home/jetson/oned_device_bench/current"
+    }
+  ],
+  "boot_id": "da7a4e87-4678-4d65-9547-b0c7b581776b",
+  "clock": "Timezone=Asia/Seoul\nNTPSynchronized=yes\n",
+  "field_route": [
+    {
+      "dst": "192.168.50.3",
+      "dev": "enP8p1s0",
+      "prefsrc": "192.168.50.2",
+      "flags": [],
+      "uid": 1000,
+      "cache": []
+    }
+  ],
+  "evidence_scope": "Read-only OS service/process/socket snapshot; no cycle or reboot test."
+}

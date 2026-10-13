@@ -1,0 +1,242 @@
+[
+  {
+    "utc": "2026-10-13T06:52:50.449938+00:00",
+    "error": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+    "phase": "FAULT",
+    "operating": false,
+    "runtime_loop_alive": true,
+    "mode": "production",
+    "line_mode": "EXISTING_PLC_INSPECTION",
+    "line_state": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+    "final_result_policy": "EXISTING_AND_FROZEN_ASSEMBLY_REQUIRED",
+    "camera_ready": true,
+    "worker": {
+      "pid": 2790,
+      "alive": true
+    },
+    "inspection_service": {
+      "state": "IDLE",
+      "ready": true,
+      "camera_ready": true,
+      "active_inspection_id": null,
+      "error": null
+    },
+    "assembly": {
+      "mode": "REQUIRED_FINAL_COMPONENT",
+      "state": "WAITING_FOR_DURABLE_INSPECTION",
+      "ready": true,
+      "error": null,
+      "pending": 0
+    },
+    "inspection_phase": "NOT_REQUESTED",
+    "plc": {
+      "backend": "OMRON_CIP_BENCH",
+      "available": true,
+      "network_plc_writes_enabled": false,
+      "physical_output_enabled": false,
+      "host": "192.168.50.3",
+      "Inspection_Request": false,
+      "last_values": {
+        "Inspection_Request": false,
+        "Jetson_Done": false,
+        "Jetson_Result": false
+      },
+      "result_true_means": "NG",
+      "contract_confirmed": false,
+      "hardware_status": "EXISTING_THREE_BOOL_ONLY",
+      "contract_version": "LEGACY_THREE_BOOL",
+      "contract_schema_verified": true,
+      "ack_scope": "WRITE_READBACK_ONLY",
+      "plc_consumption_confirmed": false,
+      "state": "RESYNC_REQUIRED",
+      "plc_request_token": null,
+      "inspection_id": null,
+      "request_early_off": false,
+      "publication_status": "BLOCKED",
+      "reason": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+      "plc_consumed_cycle_id": null,
+      "motor_feedback": "NOT_AVAILABLE",
+      "physical_stop_observable": false,
+      "cancelled": false,
+      "duplicate_requests_ignored": 0,
+      "clearance_required_after": null,
+      "limitations": [
+        "REQUEST_OFF_SENSOR_OR_STOP_AMBIGUOUS",
+        "NO_PLC_CONSUMPTION_ACK",
+        "NO_PLC_READY_HEARTBEAT",
+        "PLC_PUSHER_SEQUENCE_UNCHANGED"
+      ]
+    },
+    "integrated_counts": {
+      "PASS": 0,
+      "FAIL": 0,
+      "REVIEW": 0,
+      "ERROR": 0
+    },
+    "inspection_zone": {
+      "polygon_normalized": [
+        [
+          0.2,
+          0.65
+        ],
+        [
+          0.8,
+          0.65
+        ],
+        [
+          0.8,
+          0.9
+        ],
+        [
+          0.2,
+          0.9
+        ]
+      ],
+      "entry_policy": "product_center",
+      "confirmed": true,
+      "version": "zone-a9595f628606",
+      "calibration_sha": "565cfe4822caae6010e2f986b4c202a700bd6512bbf6e9f674b4d4388f3d7da4"
+    },
+    "field_profile_verified": false,
+    "area_clearance_enabled": false,
+    "area_reference_approved": false,
+    "area_observation_valid": false,
+    "fresh_frame": {
+      "frame_id": "763d6091420446b1999ef698d3078be5-3514",
+      "sequence": 3514,
+      "camera_epoch": "763d6091420446b1999ef698d3078be5",
+      "monotonic_s": 311.230060384,
+      "processed_monotonic": 311.337969672,
+      "stable": true,
+      "width": 1280,
+      "height": 720
+    },
+    "freshness": {
+      "source_pts_ns": 267959851456,
+      "received_at": "2026-10-13T06:52:50.642458+00:00",
+      "sensor_exposure_timestamp_verified": false
+    },
+    "preview_semantics": "TRACKING_ONLY_PARTS_NOT_EVALUATED",
+    "area_classification": "UNKNOWN"
+  },
+  {
+    "utc": "2026-10-13T07:00:48.622112+00:00",
+    "error": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+    "phase": "FAULT",
+    "operating": false,
+    "runtime_loop_alive": true,
+    "mode": "production",
+    "line_mode": "EXISTING_PLC_INSPECTION",
+    "line_state": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+    "final_result_policy": "EXISTING_AND_FROZEN_ASSEMBLY_REQUIRED",
+    "camera_ready": true,
+    "worker": {
+      "pid": 2790,
+      "alive": true
+    },
+    "inspection_service": {
+      "state": "IDLE",
+      "ready": true,
+      "camera_ready": true,
+      "active_inspection_id": null,
+      "error": null
+    },
+    "assembly": {
+      "mode": "REQUIRED_FINAL_COMPONENT",
+      "state": "WAITING_FOR_DURABLE_INSPECTION",
+      "ready": true,
+      "error": null,
+      "pending": 0
+    },
+    "inspection_phase": "NOT_REQUESTED",
+    "plc": {
+      "backend": "OMRON_CIP_BENCH",
+      "available": true,
+      "network_plc_writes_enabled": false,
+      "physical_output_enabled": false,
+      "host": "192.168.50.3",
+      "Inspection_Request": false,
+      "last_values": {
+        "Inspection_Request": false,
+        "Jetson_Done": false,
+        "Jetson_Result": false
+      },
+      "result_true_means": "NG",
+      "contract_confirmed": false,
+      "hardware_status": "EXISTING_THREE_BOOL_ONLY",
+      "contract_version": "LEGACY_THREE_BOOL",
+      "contract_schema_verified": true,
+      "ack_scope": "WRITE_READBACK_ONLY",
+      "plc_consumption_confirmed": false,
+      "state": "RESYNC_REQUIRED",
+      "plc_request_token": null,
+      "inspection_id": null,
+      "request_early_off": false,
+      "publication_status": "BLOCKED",
+      "reason": "TypeError:dict() got multiple values for keyword argument 'monotonic_s'",
+      "plc_consumed_cycle_id": null,
+      "motor_feedback": "NOT_AVAILABLE",
+      "physical_stop_observable": false,
+      "cancelled": false,
+      "duplicate_requests_ignored": 0,
+      "clearance_required_after": null,
+      "limitations": [
+        "REQUEST_OFF_SENSOR_OR_STOP_AMBIGUOUS",
+        "NO_PLC_CONSUMPTION_ACK",
+        "NO_PLC_READY_HEARTBEAT",
+        "PLC_PUSHER_SEQUENCE_UNCHANGED"
+      ]
+    },
+    "integrated_counts": {
+      "PASS": 0,
+      "FAIL": 0,
+      "REVIEW": 0,
+      "ERROR": 0
+    },
+    "inspection_zone": {
+      "polygon_normalized": [
+        [
+          0.2,
+          0.65
+        ],
+        [
+          0.8,
+          0.65
+        ],
+        [
+          0.8,
+          0.9
+        ],
+        [
+          0.2,
+          0.9
+        ]
+      ],
+      "entry_policy": "product_center",
+      "confirmed": true,
+      "version": "zone-a9595f628606",
+      "calibration_sha": "565cfe4822caae6010e2f986b4c202a700bd6512bbf6e9f674b4d4388f3d7da4"
+    },
+    "field_profile_verified": false,
+    "area_clearance_enabled": false,
+    "area_reference_approved": false,
+    "area_observation_valid": false,
+    "fresh_frame": {
+      "frame_id": "763d6091420446b1999ef698d3078be5-9761",
+      "sequence": 9761,
+      "camera_epoch": "763d6091420446b1999ef698d3078be5",
+      "monotonic_s": 789.154954312,
+      "processed_monotonic": 789.252609902,
+      "stable": true,
+      "width": 1280,
+      "height": 720
+    },
+    "freshness": {
+      "source_pts_ns": 745884748776,
+      "received_at": "2026-10-13T07:00:48.557160+00:00",
+      "sensor_exposure_timestamp_verified": false
+    },
+    "preview_semantics": "TRACKING_ONLY_PARTS_NOT_EVALUATED",
+    "area_classification": "UNKNOWN"
+  }
+]
