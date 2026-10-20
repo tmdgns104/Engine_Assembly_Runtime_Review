@@ -1,0 +1,1162 @@
+{
+  "created_at": "2026-10-20T01:42:39.934531+00:00",
+  "scope": "LOCAL_REVIEW_OF_UPLOADED_SOURCES_AND_DERIVED_7_RECORD_DB; NO_DEVICE_ACCESS",
+  "source_zip_sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace",
+  "source_manifest_files": 148,
+  "source_file_checks": [
+    {
+      "check": "source:appendix/benchmark_operating_after_verification.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:appendix/CONTEXT_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:appendix/FIELD_v002_FINDINGS.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:appendix/restore_observation_174722.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:asset_manifest.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/3532d68369284ef78429632797d06ada.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/706a5861bd054dfeab9a988214a3d492.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/94dbb66f2fc14e879affbaa63964d2f0.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/ca2806a09504478db074ce0d01d78e9b.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/4aa31b1223574c0586f149b8a312283c.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/7b5d2718fbc6468b84ea79b43cfd43ca.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/88d5cc94a2e44ab6955dff5bdafac5dd.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/93f2b19f0a0341968d14fafb4905d82c.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/05fc9abc7e894f7d9dda34c823336d1b/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/0cfddae6219c493ea5bec00f0935f3d5.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/d1a87828e196402aa8c6adbd9c2166ab.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/f507eb101f9b42d7b6be02d778da6d39.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/fb92ad19442a4b0cb5eba9d9b1f68d83.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/182c8e66347f43359d6b18e06519fd1d/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/3ad871d7d75444c2b8f25541832c2b48.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/4e62f0b57c194bc3bbaf26bce6ada5e8.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/c0360165d01240d88b012d30da308b6c.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/df8faea66a5f496fb46cd75d388ac6cb.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/51f92dcc3f7843f180b2a848cd63a5c3/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/639d7b3eb0e94698b43aaacea52b4504.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/9681e705bd58434f97ae669d9d2e4127.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/a15a555508c2485aaa9c668aaad5c576.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/cad07f5ce4814436b0fb9d3769b02a8a.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/62c1161f90064603b7ce9c3993af8f72/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/153d65af90464a4fb6123326a37c9e1d.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/709c92d88e4245a8a524b4f5143363db.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/99aaea8abea347a3aadd67ab434651bc.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/a8dc2303a68a4e6aa3611413d7f67df2/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/271047410bfa488083ea3b5274db41c0.jpg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/5fae3c26e7754c28b2de2865df6b745a.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/759c40c264c84fd2ab215e485491ae80.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/867bd10f01a14458b9adbbc46a0ab8df.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/assembly/result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/db_result.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:assets/cd3833068e9842a68ece7922bbf2a09c/integrated_final.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/build_evidence.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/complete_sources.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/inspect_basis.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/inspect_fields.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/inspect_links.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/inspect_preflight.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/locate_sources.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/observe_release.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/recover_existing.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/verify_bundle.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:code/write_reports.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/event_links.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/export_verification.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/05f8aac3b2cb42c8a03b2d5c8ae32f86.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/05fc9abc7e894f7d9dda34c823336d1b.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/182c8e66347f43359d6b18e06519fd1d.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/51f92dcc3f7843f180b2a848cd63a5c3.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/62c1161f90064603b7ce9c3993af8f72.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/a8dc2303a68a4e6aa3611413d7f67df2.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/per_inspection/cd3833068e9842a68ece7922bbf2a09c.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/queries.sql",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/schema.sql",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/selected_rows.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:db/source_snapshot_receipt.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:DB_AND_QUERY_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:evidence_map.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:inspection_results.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:local_asset_candidates.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:logs/EXECUTION_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:logs/recovery_execution.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:missing_evidence.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:plc_archive_index.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:PLC_LINKAGE_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:provenance_index.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/05f8aac3b2cb42c8a03b2d5c8ae32f86_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/05f8aac3b2cb42c8a03b2d5c8ae32f86_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/05fc9abc7e894f7d9dda34c823336d1b_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/05fc9abc7e894f7d9dda34c823336d1b_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/182c8e66347f43359d6b18e06519fd1d_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/182c8e66347f43359d6b18e06519fd1d_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/51f92dcc3f7843f180b2a848cd63a5c3_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/51f92dcc3f7843f180b2a848cd63a5c3_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/62c1161f90064603b7ce9c3993af8f72_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/62c1161f90064603b7ce9c3993af8f72_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/a8dc2303a68a4e6aa3611413d7f67df2_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/a8dc2303a68a4e6aa3611413d7f67df2_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/cd3833068e9842a68ece7922bbf2a09c_detail.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/cd3833068e9842a68ece7922bbf2a09c_search.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:queries/current_operating_observation.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:README_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:release_file_changes.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:release_linkage.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:remote_recovery_receipt.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/CONFIG-UI-HISTORY-20261018.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/AFTER_20261018T092246_484843Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/BEFORE.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/EXPECTED_SEQUENCE.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/FINAL_SUMMARY.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/OBSERVE_20261018T091926_443447Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/OBSERVE_20261018T092052_161055Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/OBSERVE_20261018T092136_646453Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/field_ten/OBSERVE_20261018T092221_668462Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/historical_snapshot_post7.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/inventory_selected_sections.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/plc/PLC_SAVED_LADDER_v001.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/plc/PLC_SELECTED_FILE_v001.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/plc/비전검사 푸셔없는버전 4 .smc2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_CROP_JETSON.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_CROP_JETSON.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_DETAIL_VERIFIED.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_DEVICE_CHECK_20261018T093018Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_DEVICE_CHECK_20261018T093444Z.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/screens/UI_FILTER_VERIFIED.txt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/apps/edge_service/history_api.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/config.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/configuration.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/control/opener_cyclic.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/control/standalone_plc.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/journal/history.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/runtime/standalone.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/tested_runtime/src/runtime/standalone_web.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/transition/AFTER_REBOOT_PROOF.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/transition/DEPLOYMENT.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/transition/runtime/apps/edge_service/line_details.js",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/transition/runtime/apps/edge_service/line_hmi.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/ui_transition/AFTER_REBOOT_PROOF.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/ui_transition/DEPLOYMENT.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/ui_transition/runtime/apps/edge_service/line_details.js",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:sources/ui_transition/runtime/apps/edge_service/line_hmi.html",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:TIME_AND_FIELD_MAP_KO.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:timing_summary.csv",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:trial_reconciliation.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:user_observations.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source:visual_review.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_zip_crc",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "review_db_integrity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "review_db_fk",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "exact_source_values:inspections",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "exact_source_values:defects",
+      "passed": true,
+      "detail": 3
+    },
+    {
+      "check": "exact_source_values:frame_assets",
+      "passed": true,
+      "detail": 28
+    },
+    {
+      "check": "exact_source_values:dispositions",
+      "passed": true,
+      "detail": 0
+    },
+    {
+      "check": "exact_source_values:cycles",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "exact_source_values:events",
+      "passed": true,
+      "detail": 55
+    },
+    {
+      "check": "exact_source_values:outbox",
+      "passed": true,
+      "detail": 55
+    },
+    {
+      "check": "exact_source_values:service_state",
+      "passed": true,
+      "detail": 14
+    },
+    {
+      "check": "tables",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "sql_query_row_counts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:94dbb66f2fc14e879affbaa63964d2f0",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:3532d68369284ef78429632797d06ada",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:706a5861bd054dfeab9a988214a3d492",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:ca2806a09504478db074ce0d01d78e9b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:709c92d88e4245a8a524b4f5143363db",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:1f6e714cd9de4e6b8672d730cd4cf70e",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:99aaea8abea347a3aadd67ab434651bc",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:153d65af90464a4fb6123326a37c9e1d",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:a15a555508c2485aaa9c668aaad5c576",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:639d7b3eb0e94698b43aaacea52b4504",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:9681e705bd58434f97ae669d9d2e4127",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:cad07f5ce4814436b0fb9d3769b02a8a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:4aa31b1223574c0586f149b8a312283c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:93f2b19f0a0341968d14fafb4905d82c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:7b5d2718fbc6468b84ea79b43cfd43ca",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:88d5cc94a2e44ab6955dff5bdafac5dd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:3ad871d7d75444c2b8f25541832c2b48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:df8faea66a5f496fb46cd75d388ac6cb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:c0360165d01240d88b012d30da308b6c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:4e62f0b57c194bc3bbaf26bce6ada5e8",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:f507eb101f9b42d7b6be02d778da6d39",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:d1a87828e196402aa8c6adbd9c2166ab",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:fb92ad19442a4b0cb5eba9d9b1f68d83",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:0cfddae6219c493ea5bec00f0935f3d5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:5fae3c26e7754c28b2de2865df6b745a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:867bd10f01a14458b9adbbc46a0ab8df",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:759c40c264c84fd2ab215e485491ae80",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "asset:271047410bfa488083ea3b5274db41c0",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "reader_checks": [
+    {
+      "name": "detail_05f8aac3b2cb42c8a03b2d5c8ae32f86",
+      "passed": true
+    },
+    {
+      "name": "search_05f8aac3b2cb42c8a03b2d5c8ae32f86",
+      "passed": true
+    },
+    {
+      "name": "detail_05fc9abc7e894f7d9dda34c823336d1b",
+      "passed": true
+    },
+    {
+      "name": "search_05fc9abc7e894f7d9dda34c823336d1b",
+      "passed": true
+    },
+    {
+      "name": "detail_182c8e66347f43359d6b18e06519fd1d",
+      "passed": true
+    },
+    {
+      "name": "search_182c8e66347f43359d6b18e06519fd1d",
+      "passed": true
+    },
+    {
+      "name": "detail_51f92dcc3f7843f180b2a848cd63a5c3",
+      "passed": true
+    },
+    {
+      "name": "search_51f92dcc3f7843f180b2a848cd63a5c3",
+      "passed": true
+    },
+    {
+      "name": "detail_62c1161f90064603b7ce9c3993af8f72",
+      "passed": true
+    },
+    {
+      "name": "search_62c1161f90064603b7ce9c3993af8f72",
+      "passed": true
+    },
+    {
+      "name": "detail_a8dc2303a68a4e6aa3611413d7f67df2",
+      "passed": true
+    },
+    {
+      "name": "search_a8dc2303a68a4e6aa3611413d7f67df2",
+      "passed": true
+    },
+    {
+      "name": "detail_cd3833068e9842a68ece7922bbf2a09c",
+      "passed": true
+    },
+    {
+      "name": "search_cd3833068e9842a68ece7922bbf2a09c",
+      "passed": true
+    },
+    {
+      "name": "all_count_7",
+      "passed": true
+    },
+    {
+      "name": "basic_fail_3",
+      "passed": true
+    },
+    {
+      "name": "basic_pass_4",
+      "passed": true
+    },
+    {
+      "name": "reason_search_3",
+      "passed": true
+    },
+    {
+      "name": "product_7",
+      "passed": true
+    },
+    {
+      "name": "date_tz_bound_7",
+      "passed": true
+    },
+    {
+      "name": "pagination_3",
+      "passed": true
+    },
+    {
+      "name": "wildcard_literal",
+      "passed": true
+    },
+    {
+      "name": "csv_7",
+      "passed": true
+    },
+    {
+      "name": "csv_formula_protection",
+      "passed": true
+    },
+    {
+      "name": "no_record_none",
+      "passed": true
+    },
+    {
+      "name": "invalid_limit",
+      "passed": true
+    },
+    {
+      "name": "invalid_decision",
+      "passed": true
+    },
+    {
+      "name": "missing_tz",
+      "passed": true
+    },
+    {
+      "name": "reversed_date",
+      "passed": true
+    },
+    {
+      "name": "long_q",
+      "passed": true
+    },
+    {
+      "name": "write_rejected",
+      "passed": true
+    },
+    {
+      "name": "reader_db_unchanged",
+      "passed": true
+    },
+    {
+      "name": "basic_result_05f8aac3b2cb42c8a03b2d5c8ae32f86",
+      "passed": true
+    },
+    {
+      "name": "final_result_05f8aac3b2cb42c8a03b2d5c8ae32f86",
+      "passed": true
+    },
+    {
+      "name": "basic_result_05fc9abc7e894f7d9dda34c823336d1b",
+      "passed": true
+    },
+    {
+      "name": "final_result_05fc9abc7e894f7d9dda34c823336d1b",
+      "passed": true
+    },
+    {
+      "name": "basic_result_182c8e66347f43359d6b18e06519fd1d",
+      "passed": true
+    },
+    {
+      "name": "final_result_182c8e66347f43359d6b18e06519fd1d",
+      "passed": true
+    },
+    {
+      "name": "basic_result_51f92dcc3f7843f180b2a848cd63a5c3",
+      "passed": true
+    },
+    {
+      "name": "final_result_51f92dcc3f7843f180b2a848cd63a5c3",
+      "passed": true
+    },
+    {
+      "name": "basic_result_62c1161f90064603b7ce9c3993af8f72",
+      "passed": true
+    },
+    {
+      "name": "final_result_62c1161f90064603b7ce9c3993af8f72",
+      "passed": true
+    },
+    {
+      "name": "basic_result_a8dc2303a68a4e6aa3611413d7f67df2",
+      "passed": true
+    },
+    {
+      "name": "final_result_a8dc2303a68a4e6aa3611413d7f67df2",
+      "passed": true
+    },
+    {
+      "name": "basic_result_cd3833068e9842a68ece7922bbf2a09c",
+      "passed": true
+    },
+    {
+      "name": "final_result_cd3833068e9842a68ece7922bbf2a09c",
+      "passed": true
+    },
+    {
+      "name": "matched_gets_14",
+      "passed": true
+    }
+  ],
+  "reader_check_count": 47,
+  "sql_query_count": 8,
+  "source_counts": {
+    "inspections": 7,
+    "defects": 3,
+    "frame_assets": 28,
+    "dispositions": 0,
+    "cycles": 7,
+    "events": 55,
+    "outbox": 55,
+    "service_state": 14
+  },
+  "empty_schema_only_tables": [
+    "calibrations",
+    "quarantine"
+  ],
+  "review_db_sha256": "64b8ff61b39719c4e4fadc6d3328b8ea0b49a12418a38d686b528a01f600a098",
+  "review_db_is_operating_snapshot": false,
+  "all_passed": true
+}

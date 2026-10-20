@@ -1,0 +1,132 @@
+{
+  "document": "01_엔진모형_문제정의서_v1.1",
+  "scope": "문서 수정 및 로컬 렌더링·대조. GitHub 쓰기 없음. 새 운영시험 없음.",
+  "source_git_blob": "e4528dea3c9bb1318ea1770734344dadd8145347",
+  "source_docx_sha256": "a0d35ee13012a49900b32e7ae9be0a8a3d5913d6df55393f330a027c1db57e9d",
+  "checks": [
+    {
+      "check": "원본 Word와 산출물 저장소 blob 동일",
+      "passed": true
+    },
+    {
+      "check": "Benchmark 산식",
+      "passed": true
+    },
+    {
+      "check": "5회 순환 표기 포함",
+      "passed": true
+    },
+    {
+      "check": "실물시험 원래 다섯 행 보존",
+      "passed": true
+    },
+    {
+      "check": "범위·구성요소 표 원문 보존",
+      "passed": true
+    },
+    {
+      "check": "기존 8개 절 제목 보존",
+      "passed": true
+    },
+    {
+      "check": "저장 완료 확인이 장치 연계보다 앞섬",
+      "passed": true
+    },
+    {
+      "check": "원본 표 9개 유지",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 49.1%",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 48.6%",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 7/7",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 14/14",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 21장",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 4,320",
+      "passed": true
+    },
+    {
+      "check": "성과 값 유지 RIGHT_PIPE_MISSING",
+      "passed": true
+    },
+    {
+      "check": "한글·기호 폰트 글리프 지원",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "DOCX ZIP CRC 정상",
+      "passed": true
+    },
+    {
+      "check": "두 저장소와 6개 근거 PDF 링크 포함",
+      "passed": true
+    },
+    {
+      "check": "PDF 3쪽",
+      "passed": true
+    },
+    {
+      "check": "성과표 전체가 3쪽 한 페이지에 존재",
+      "passed": true
+    },
+    {
+      "check": "성과표가 2쪽에서 분할 시작하지 않음",
+      "passed": true
+    },
+    {
+      "check": "페이지 번호 1/3,2/3,3/3 존재",
+      "passed": true
+    },
+    {
+      "check": "PDF 링크 8개 유지",
+      "passed": true
+    },
+    {
+      "check": "PDF 교체문자 없음",
+      "passed": true
+    },
+    {
+      "check": "텍스트 박스 페이지 안에 배치",
+      "passed": true
+    },
+    {
+      "check": "PDF 사용 폰트 모두 임베드",
+      "passed": true,
+      "details": "name                                 type              encoding         emb sub uni object ID\n------------------------------------ ----------------- ---------------- --- --- --- ---------\nBAAAAA+NanumGothic                   TrueType          WinAnsi          yes yes yes    813  0\nCAAAAA+NanumGothicBold               TrueType          WinAnsi          yes yes yes    808  0\nDAAAAA+OpenSymbol                    TrueType          WinAnsi          yes yes yes    823  0\nEAAAAA+NanumGothic                   TrueType          WinAnsi          yes yes yes    818  0\n"
+    },
+    {
+      "check": "전체 3쪽 시각 검토 완료",
+      "passed": true,
+      "details": "이 턴에서 page-1.png, page-2.png, page-3.png를 열어 한글·표·행간·쪽번호를 확인함"
+    }
+  ],
+  "passed": true,
+  "files": [
+    {
+      "name": "01_엔진모형_문제정의서_v1.1.pdf",
+      "bytes": 260906,
+      "sha256": "35706e3edc7a7eba77a28083c0be90a99a7b1fc6d39e099c96533e9cbe4ae7da"
+    },
+    {
+      "name": "01_엔진모형_문제정의서_v1.1.docx",
+      "bytes": 44467,
+      "sha256": "bdf50ed910bd57cea692bad6e267d4cd89a6a492052d155bd3ec3dff869a100d"
+    }
+  ]
+}

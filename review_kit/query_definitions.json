@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Q01_results",
+    "sql": "SELECT i.request_id, i.inspection_id, i.state,\n       i.decision AS basic_decision,\n       json_extract(s.value,'$.decision') AS final_decision,\n       json_extract(i.result_json,'$.reason_code') AS reason,\n       json_extract(i.result_json,'$.storage_success') AS stored,\n       json_extract(s.value,'$.plc_result_value') AS plc_result\nFROM inspections i\nLEFT JOIN service_state s\n  ON s.key='integrated_decision:'||i.inspection_id\nORDER BY i.request_id;",
+    "parameters": {}
+  },
+  {
+    "name": "Q02_counts",
+    "sql": "SELECT i.decision AS basic_decision,\n       json_extract(s.value,'$.decision') AS final_decision,\n       COUNT(*) AS inspection_count\nFROM inspections i\nLEFT JOIN service_state s\n  ON s.key='integrated_decision:'||i.inspection_id\nGROUP BY i.decision,json_extract(s.value,'$.decision')\nORDER BY i.decision;",
+    "parameters": {}
+  },
+  {
+    "name": "Q03_assets",
+    "sql": "SELECT asset_id,kind,relative_path,sha256,\n       width,height,bytes,capture_at,sync_state\nFROM frame_assets\nWHERE inspection_id=:id\nORDER BY kind,capture_at,asset_id;",
+    "parameters": {
+      "id": "a8dc2303a68a4e6aa3611413d7f67df2"
+    }
+  },
+  {
+    "name": "Q04_defects",
+    "sql": "SELECT i.request_id,d.inspection_id,d.code,d.slot\nFROM defects d JOIN inspections i\n  ON i.inspection_id=d.inspection_id\nORDER BY i.request_id;",
+    "parameters": {}
+  },
+  {
+    "name": "Q05_primary_events",
+    "sql": "SELECT event_id,event_type,occurred_at,\n       json_extract(payload_json,'$.payload.inspection_id') AS inspection_id\nFROM events\nWHERE json_extract(payload_json,'$.payload.inspection_id')=:id\nORDER BY occurred_at,event_id;",
+    "parameters": {
+      "id": "a8dc2303a68a4e6aa3611413d7f67df2"
+    }
+  },
+  {
+    "name": "Q06_publication",
+    "sql": "SELECT key,\n       json_extract(value,'$.event') AS event,\n       json_extract(value,'$.inspection_id') AS inspection_id,\n       json_extract(value,'$.request_token') AS request_token\nFROM service_state\nWHERE key='production_publication:'||:id;",
+    "parameters": {
+      "id": "a8dc2303a68a4e6aa3611413d7f67df2"
+    }
+  },
+  {
+    "name": "Q07_sync_state",
+    "sql": "SELECT 'outbox' AS table_name,state AS sync_state,COUNT(*) AS row_count\nFROM outbox GROUP BY state\nUNION ALL\nSELECT 'frame_assets',sync_state,COUNT(*)\nFROM frame_assets GROUP BY sync_state;",
+    "parameters": {}
+  },
+  {
+    "name": "Q08_date_range",
+    "sql": "SELECT request_id,inspection_id,accepted_at,decision\nFROM inspections\nWHERE accepted_at>=:since AND accepted_at<:until\nORDER BY accepted_at,inspection_id;",
+    "parameters": {
+      "since": "2026-10-18T09:19:00+00:00",
+      "until": "2026-10-18T09:23:00+00:00"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "created_at_utc": "2026-10-20T00:45:34.601130+00:00",
+  "files": [
+    {
+      "path": "00_제출안내_KO.md",
+      "bytes": 2407,
+      "sha256": "eb79b352b875a9d0ece0105ca9eb3ef80b33fcc860b73e9e57eb993abe5dbf88"
+    },
+    {
+      "path": "05_엔진모형_통합테스트_결과서_v1.0.docx",
+      "bytes": 8938504,
+      "sha256": "72027367d3b9f846c3308558e6dbbe4ba495ab8f346afa0b7b1c0f4fd9cffc63"
+    },
+    {
+      "path": "05_엔진모형_통합테스트_결과서_v1.0.pdf",
+      "bytes": 2738558,
+      "sha256": "c21c6c47de1b828509250d03a375e6afb771631adcd15a1f56877e2f0d441f67"
+    },
+    {
+      "path": "document_verification.json",
+      "bytes": 1044,
+      "sha256": "5f39fcac99db8fe76bb5f6fe67785b783c461c4c2f35b81bfa01cb7923321d20"
+    },
+    {
+      "path": "figure_provenance.json",
+      "bytes": 6875,
+      "sha256": "5f03f9b8957e73d46b490293f3328606f43067013ccd552e606fbf82c270ffca"
+    },
+    {
+      "path": "reviewer_audit.json",
+      "bytes": 10173,
+      "sha256": "772ed05a77df86c7a6da09a420150173a32cdb7c95b5f6db8da414fbdcb079bf"
+    },
+    {
+      "path": "source_collection_verification.json",
+      "bytes": 25721,
+      "sha256": "9f60c01cae4359e4c7e968834d12425ded9a1a07d41a7c38cf5bad268c0c69a2"
+    },
+    {
+      "path": "timing_recomputed.csv",
+      "bytes": 1311,
+      "sha256": "80e2d9d81cc8637d70d5e144071d78ef92209a9e0355357d835475846c37f884"
+    },
+    {
+      "path": "Engine_Integrated_Test_Evidence_v001.zip",
+      "bytes": 31822254,
+      "sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace"
+    }
+  ]
+}

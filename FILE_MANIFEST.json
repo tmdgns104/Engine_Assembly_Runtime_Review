@@ -1,0 +1,637 @@
+{
+  "schema_version": 1,
+  "scope": "Current publication tree; original bytes retained",
+  "excluded_to_avoid_circular_hashes": [
+    "FILE_MANIFEST.json",
+    "PACKAGING_VERIFICATION.json",
+    "local aggregate ZIP"
+  ],
+  "file_count_excluding_self_and_verification": 78,
+  "payload_bytes": 528925257,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 73,
+      "sha256": "17c88b92ad3c42234db7393456fad2fc415668aa3e4629fab2ecdd063ec13f78",
+      "role": "preserved_git_lfs_configuration",
+      "document_version": null,
+      "source": "Git 3c8273052e629a356e322419d692db0cc00ff156:.gitattributes"
+    },
+    {
+      "path": "00_제출안내.md",
+      "bytes": 5727,
+      "sha256": "eb9bc81588efadaf66fd755dc8fcb4e148e3d5598d0b4e3fe51516f1fc6d1c84",
+      "role": "current_packaging_navigation",
+      "document_version": null,
+      "source": "created by this packaging task"
+    },
+    {
+      "path": "01_엔진모형_문제정의서_v1.1.docx",
+      "bytes": 44467,
+      "sha256": "bdf50ed910bd57cea692bad6e267d4cd89a6a492052d155bd3ec3dff869a100d",
+      "role": "matching_editable_document",
+      "document_version": "1.1",
+      "source": "local original: 01_엔진모형_문제정의서_v1.1.docx"
+    },
+    {
+      "path": "01_엔진모형_문제정의서_v1.1.pdf",
+      "bytes": 260906,
+      "sha256": "35706e3edc7a7eba77a28083c0be90a99a7b1fc6d39e099c96533e9cbe4ae7da",
+      "role": "approved_pdf",
+      "document_version": "1.1",
+      "source": "approved_inputs.json: 01_엔진모형_문제정의서_v1.1.pdf"
+    },
+    {
+      "path": "02_엔진모형_데이터셋_설명서_v1.2.docx",
+      "bytes": 17825206,
+      "sha256": "74ab3c32dd34aa743126a6b1fdad74741db8b43a68f87f85bad5cc04cefefeab",
+      "role": "matching_editable_document",
+      "document_version": "1.2",
+      "source": "local original: 02_엔진모형_데이터셋_설명서_v1.2.docx"
+    },
+    {
+      "path": "02_엔진모형_데이터셋_설명서_v1.2.pdf",
+      "bytes": 2721564,
+      "sha256": "b605ba7bb9eca314227ca66f3ac9824c6607855a566067bf7b3d9d6368510c86",
+      "role": "approved_pdf",
+      "document_version": "1.2",
+      "source": "approved_inputs.json: 02_엔진모형_데이터셋_설명서_v1.2.pdf"
+    },
+    {
+      "path": "03_엔진모형_모델_평가서_v1.1.docx",
+      "bytes": 12763169,
+      "sha256": "1c52d153c29a811cfb53477a9167243e2d6519948083042e86c27f096aad675f",
+      "role": "matching_editable_document",
+      "document_version": "1.1",
+      "source": "local original: 03_엔진모형_모델_평가서_v1.1.docx"
+    },
+    {
+      "path": "03_엔진모형_모델_평가서_v1.1.pdf",
+      "bytes": 2002951,
+      "sha256": "3884d453ba4ce4ccf8df97d4ab7afbd43400025ecb87183621b2b5f12e24903c",
+      "role": "approved_pdf",
+      "document_version": "1.1",
+      "source": "approved_inputs.json: 03_엔진모형_모델_평가서_v1.1.pdf"
+    },
+    {
+      "path": "04_엔진모형_최적화전후_Benchmark_보고서_v1.1.pdf",
+      "bytes": 1382195,
+      "sha256": "0e8072833b7449f94bc0f254aaeb7464a97d863d82452a31db7ebd742e45f9a0",
+      "role": "historical_pdf_link_compatibility",
+      "document_version": null,
+      "source": "Git 3c8273052e629a356e322419d692db0cc00ff156:04_엔진모형_최적화전후_Benchmark_보고서_v1.1.pdf"
+    },
+    {
+      "path": "04_엔진모형_최적화전후_Benchmark_보고서_v1.2.docx",
+      "bytes": 1006257,
+      "sha256": "b8772a39bcfb2d18b6800b92e4677918bb154156522f68eb55c2a52b243bb143",
+      "role": "matching_editable_document",
+      "document_version": "1.2",
+      "source": "local original: 04_엔진모형_최적화전후_Benchmark_보고서_v1.2.docx"
+    },
+    {
+      "path": "04_엔진모형_최적화전후_Benchmark_보고서_v1.2.pdf",
+      "bytes": 1382202,
+      "sha256": "e3e4b2b85c448edcc1317a81d42af01104ff73a9d0873b774108b2c6958210dd",
+      "role": "approved_pdf",
+      "document_version": "1.2",
+      "source": "approved_inputs.json: 04_엔진모형_최적화전후_Benchmark_보고서_v1.2.pdf"
+    },
+    {
+      "path": "05_엔진모형_통합테스트_결과서_v1.0.docx",
+      "bytes": 8938504,
+      "sha256": "72027367d3b9f846c3308558e6dbbe4ba495ab8f346afa0b7b1c0f4fd9cffc63",
+      "role": "matching_editable_document",
+      "document_version": "1.0",
+      "source": "local original: 05_엔진모형_통합테스트_결과서_v1.0.docx"
+    },
+    {
+      "path": "05_엔진모형_통합테스트_결과서_v1.0.pdf",
+      "bytes": 2738558,
+      "sha256": "c21c6c47de1b828509250d03a375e6afb771631adcd15a1f56877e2f0d441f67",
+      "role": "approved_pdf",
+      "document_version": "1.0",
+      "source": "approved_inputs.json: 05_엔진모형_통합테스트_결과서_v1.0.pdf"
+    },
+    {
+      "path": "06_엔진모형_DB_구조와_조회방식_v1.0.docx",
+      "bytes": 2643767,
+      "sha256": "c928d65a79366756bcffc31de9ac89dc91faa21afd05f036038c9b09a8d9890b",
+      "role": "matching_editable_document",
+      "document_version": "1.0",
+      "source": "local original: 06_엔진모형_DB_구조와_조회방식_v1.0.docx"
+    },
+    {
+      "path": "06_엔진모형_DB_구조와_조회방식_v1.0.pdf",
+      "bytes": 1054245,
+      "sha256": "6bd50503ffffc6d88e3389489ab654efbb441651caefa2700c08fa052c14de6f",
+      "role": "approved_pdf",
+      "document_version": "1.0",
+      "source": "approved_inputs.json: 06_엔진모형_DB_구조와_조회방식_v1.0.pdf"
+    },
+    {
+      "path": "07_Jetson_실행코드_근거맵.md",
+      "bytes": 2523,
+      "sha256": "2526fb238f9d95e26571906f5d6e72395ecbea284fac51804593e90a6e7ae8f7",
+      "role": "preserved_historical_reference_map",
+      "document_version": null,
+      "source": "local original: 07_Jetson_실행코드_근거맵.md"
+    },
+    {
+      "path": "07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.0.pdf",
+      "bytes": 563130,
+      "sha256": "ebb153a9413c73eecceb4cfb42bc4e94a4878424df902b431748013a65b396f0",
+      "role": "historical_pdf_link_compatibility",
+      "document_version": null,
+      "source": "Git 3c8273052e629a356e322419d692db0cc00ff156:07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.0.pdf"
+    },
+    {
+      "path": "07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.1.docx",
+      "bytes": 58658,
+      "sha256": "90e02c18d07d68664838d45b6676f36e6ef4d2dc9372dc8242ba19d0d2bd2ad4",
+      "role": "matching_editable_document",
+      "document_version": "1.1",
+      "source": "local original: 07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.1.docx"
+    },
+    {
+      "path": "07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.1.pdf",
+      "bytes": 634030,
+      "sha256": "e5df6806f775dba4b6c2c2259d8a378e8440b20fd4933db4b623a8d9c6e04773",
+      "role": "approved_pdf",
+      "document_version": "1.1",
+      "source": "approved_inputs.json: 07_엔진모형_Jetson_실행_ONNX_TensorRT_절차서_v1.1.pdf"
+    },
+    {
+      "path": "08_엔진모형_프로젝트_기획안_v1.1.docx",
+      "bytes": 45379,
+      "sha256": "86417e695748839f120bee535bb7f4346265454a77883c9aae6c2c71527fde1b",
+      "role": "matching_editable_document",
+      "document_version": "1.1",
+      "source": "local original: 08_엔진모형_프로젝트_기획안_v1.1.docx"
+    },
+    {
+      "path": "08_엔진모형_프로젝트_기획안_v1.1.pdf",
+      "bytes": 319435,
+      "sha256": "62390a904f1358c1d3e28b68db21107b9cf0adde5946052ebf2be4e780d4556f",
+      "role": "approved_pdf",
+      "document_version": "1.1",
+      "source": "approved_inputs.json: 08_엔진모형_프로젝트_기획안_v1.1.pdf"
+    },
+    {
+      "path": "09_project_readme_v1_1.html",
+      "bytes": 44658,
+      "sha256": "317bd4578eb32e5de1925fb724598b95c027ce0e3e769c57df71848aa915b58b",
+      "role": "approved_readme_html_companion",
+      "document_version": "1.1",
+      "source": "local original: 09_project_readme_v1_1.html"
+    },
+    {
+      "path": "09_project_readme_v1_1.md",
+      "bytes": 28791,
+      "sha256": "79ff6a287848224b5c3b742dfecdf954fff0fdaa862cd04b3790e9c58a0c70af",
+      "role": "approved_code_readme",
+      "document_version": "1.1",
+      "source": "approved_inputs.json: 09_project_readme_v1_1.md"
+    },
+    {
+      "path": "10_final_report_v1_2.docx",
+      "bytes": 2737999,
+      "sha256": "9e3199504e39657f8d40e4ff77848a6d68cc9294dca799057687241d0b29fb24",
+      "role": "matching_editable_document",
+      "document_version": "1.2",
+      "source": "local original: 10_final_report_v1_2.docx"
+    },
+    {
+      "path": "10_final_report_v1_2.pdf",
+      "bytes": 1202229,
+      "sha256": "2c6500497a9a3e683d39412d4a81921be80237cd25e041a99149095f2f479ca6",
+      "role": "approved_pdf",
+      "document_version": "1.2",
+      "source": "approved_inputs.json: 10_final_report_v1_2.pdf"
+    },
+    {
+      "path": "document_audits/01/01_verification.json",
+      "bytes": 3721,
+      "sha256": "a41d117a944508490cbc7f12b708197d8526ee8464644bb7d7e03740d71be954",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "01_problem_definition_v1_1.zip!01_verification.json"
+    },
+    {
+      "path": "document_audits/01/01_수정내용_및_사용안내.md",
+      "bytes": 2405,
+      "sha256": "2b5f5d2f470997395504332e262c0f2160695042bb1f1c345bef000cbada305c",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "01_problem_definition_v1_1.zip!01_수정내용_및_사용안내.md"
+    },
+    {
+      "path": "document_audits/04/00_제출자료_안내.md",
+      "bytes": 5412,
+      "sha256": "5ba97a64cdec0e0870ed6509da11bdc3c3cbe2317525dafc71140654af95253d",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!00_제출자료_안내.md"
+    },
+    {
+      "path": "document_audits/04/figure_provenance.json",
+      "bytes": 1460,
+      "sha256": "fb680a6c4fc643cfbd72231c4d07dc7b54831d513d6c612dca5986b2bca31e22",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!figure_provenance.json"
+    },
+    {
+      "path": "document_audits/04/M1_M2_benchmark_evidence_v001_zip_verification.json",
+      "bytes": 873,
+      "sha256": "049949e1359e498e021fad0bbe1c5039a9241e1105cb43f6fb46471e97e0819a",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!M1_M2_benchmark_evidence_v001_zip_verification.json"
+    },
+    {
+      "path": "document_audits/04/M1_M2_benchmark_measurement_verification.json",
+      "bytes": 999,
+      "sha256": "527ce85f4d0b79a79ef58b879c7944a6b73f19fab795dc451b44ebcbb0db4332",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!M1_M2_benchmark_measurement_verification.json"
+    },
+    {
+      "path": "document_audits/04/reviewer_audit.json",
+      "bytes": 2966,
+      "sha256": "4588c309fa4de7b4a50a3582eaa719ec7a4f207029433da6197a78252aa201b2",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!reviewer_audit.json"
+    },
+    {
+      "path": "document_audits/04/submission_manifest.json",
+      "bytes": 1622,
+      "sha256": "9c0b0dc7449a6036853e81b3dcf4e289f6469724a6848480cfd03d3f75fc28e1",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!submission_manifest.json"
+    },
+    {
+      "path": "document_audits/05/00_제출안내_KO.md",
+      "bytes": 2407,
+      "sha256": "eb79b352b875a9d0ece0105ca9eb3ef80b33fcc860b73e9e57eb993abe5dbf88",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!00_제출안내_KO.md"
+    },
+    {
+      "path": "document_audits/05/document_verification.json",
+      "bytes": 1044,
+      "sha256": "5f39fcac99db8fe76bb5f6fe67785b783c461c4c2f35b81bfa01cb7923321d20",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!document_verification.json"
+    },
+    {
+      "path": "document_audits/05/figure_provenance.json",
+      "bytes": 6875,
+      "sha256": "5f03f9b8957e73d46b490293f3328606f43067013ccd552e606fbf82c270ffca",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!figure_provenance.json"
+    },
+    {
+      "path": "document_audits/05/package_manifest.json",
+      "bytes": 1588,
+      "sha256": "984ac32be5078631eea6286977fc2877f2763a0bcaf36c6245cc67adb12ce7f5",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!package_manifest.json"
+    },
+    {
+      "path": "document_audits/05/reviewer_audit.json",
+      "bytes": 10173,
+      "sha256": "772ed05a77df86c7a6da09a420150173a32cdb7c95b5f6db8da414fbdcb079bf",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!reviewer_audit.json"
+    },
+    {
+      "path": "document_audits/05/source_collection_verification.json",
+      "bytes": 25721,
+      "sha256": "9f60c01cae4359e4c7e968834d12425ded9a1a07d41a7c38cf5bad268c0c69a2",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!source_collection_verification.json"
+    },
+    {
+      "path": "document_audits/05/timing_recomputed.csv",
+      "bytes": 1311,
+      "sha256": "80e2d9d81cc8637d70d5e144071d78ef92209a9e0355357d835475846c37f884",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!timing_recomputed.csv"
+    },
+    {
+      "path": "document_audits/06/00_제출안내.md",
+      "bytes": 2255,
+      "sha256": "dc2637e57ab5889c72e04f3a60d514f6e126f6ae27dd6738cb2673d9f1cba4e7",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!00_제출안내.md"
+    },
+    {
+      "path": "document_audits/06/file_manifest.json",
+      "bytes": 4940,
+      "sha256": "4c3c0b470a0a3a8829a0d31949c7e4c6365cfa0bcc2b5a82a086d2daffd4637a",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!file_manifest.json"
+    },
+    {
+      "path": "document_audits/old01_08/MANIFEST.json",
+      "bytes": 841,
+      "sha256": "26dd480e7a5d29d6ce013562884bbc54ed2505fc62ce7f583a2c703cdc231030",
+      "role": "preserved_historical_wrapper_metadata",
+      "document_version": null,
+      "source": "01_08_문제정의_프로젝트기획_제출묶음_v1.0.zip!MANIFEST.json"
+    },
+    {
+      "path": "document_audits/old01_08/README_문제정의_기획안.txt",
+      "bytes": 558,
+      "sha256": "b6cd03cd05a5f6ffee71fb0a549bcb762f584aacd0c6fcb91c0e06f741921815",
+      "role": "preserved_historical_wrapper_metadata",
+      "document_version": null,
+      "source": "01_08_문제정의_프로젝트기획_제출묶음_v1.0.zip!README_문제정의_기획안.txt"
+    },
+    {
+      "path": "document_audits/old10/manifest.json",
+      "bytes": 545,
+      "sha256": "f498b127a78e282ed8db9003b929f482a701b2afc99e5a2aa228395ceb61f656",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "engine_final_report_v1_1.zip!manifest.json"
+    },
+    {
+      "path": "document_audits/old10/README.txt",
+      "bytes": 1369,
+      "sha256": "6efa25d3965e06150eb868d8969f5c4ad5db3b6d7d8554067634a059dd4accc5",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "engine_final_report_v1_1.zip!README.txt"
+    },
+    {
+      "path": "document_audits/old10/verification.json",
+      "bytes": 1419,
+      "sha256": "3a76853aef830ff355bfc0311dda88ae0fb654e7b19e33619bd879c28629fa11",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "engine_final_report_v1_1.zip!verification.json"
+    },
+    {
+      "path": "DOCUMENT_VERSION_MAP.md",
+      "bytes": 3363,
+      "sha256": "351af89cde312ce2f5ed3e8599daec015ec269ed6b511a4c5374eab2de9d28cd",
+      "role": "current_packaging_navigation",
+      "document_version": null,
+      "source": "created by this packaging task"
+    },
+    {
+      "path": "Engine_Integrated_Test_Evidence_v001.zip",
+      "bytes": 31822254,
+      "sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace",
+      "role": "immutable_original_evidence",
+      "document_version": null,
+      "source": "05_통합테스트_제출묶음_v1.0.zip!Engine_Integrated_Test_Evidence_v001.zip; 06_DB_구조조회_제출묶음_v1.0.zip!Engine_Integrated_Test_Evidence_v001.zip"
+    },
+    {
+      "path": "EVIDENCE_INDEX.md",
+      "bytes": 9989,
+      "sha256": "3deecdf737b528caefd6d1e9b0d3723d34a9178c7648398b578b7ecb2a4f095e",
+      "role": "current_packaging_navigation",
+      "document_version": null,
+      "source": "created by this packaging task"
+    },
+    {
+      "path": "M1_M2_benchmark_evidence_v001.zip",
+      "bytes": 37112177,
+      "sha256": "06321e2cb49302744181615e126d4f2d62b20e4d2c2782e8b2a29f815876cf29",
+      "role": "immutable_original_evidence",
+      "document_version": null,
+      "source": "04_Benchmark_제출묶음_v1.0.zip!M1_M2_benchmark_evidence_v001.zip"
+    },
+    {
+      "path": "M1_M2_dataset_evidence_v002.zip",
+      "bytes": 373981270,
+      "sha256": "3c991ac98bb6c48141403f7142a7a4dc2ece84f4bf468aa2459039a3f973b42e",
+      "role": "immutable_original_evidence",
+      "document_version": null,
+      "source": "M1_M2_dataset_evidence_v002.zip"
+    },
+    {
+      "path": "M1_M2_model_evaluation_evidence_v001.zip",
+      "bytes": 21474918,
+      "sha256": "39dcfc71690b130678943955ed898c42235426ab5612ea7107ede39693b85478",
+      "role": "immutable_original_evidence",
+      "document_version": null,
+      "source": "M1_M2_model_evaluation_evidence_v001.zip"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6450,
+      "sha256": "5df05496c815bdb64ec6a0a1816b8b08c9af4afd925f064df40f569fa66d5946",
+      "role": "current_packaging_navigation",
+      "document_version": null,
+      "source": "created by this packaging task"
+    },
+    {
+      "path": "review_kit/document_verification.json",
+      "bytes": 277,
+      "sha256": "b2e91cd63896a97415a77aa545b080e79c7698dc47cdd32a0ef100d88d5eea4e",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/document_verification.json"
+    },
+    {
+      "path": "review_kit/figure_provenance.json",
+      "bytes": 1048,
+      "sha256": "b8316ac9fac38baf2107e06d4158f37e8d92768da751b1a272fc767d10e071ba",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/figure_provenance.json"
+    },
+    {
+      "path": "review_kit/inspection_review_subset.sqlite3",
+      "bytes": 1961984,
+      "sha256": "64b8ff61b39719c4e4fadc6d3328b8ea0b49a12418a38d686b528a01f600a098",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/inspection_review_subset.sqlite3"
+    },
+    {
+      "path": "review_kit/queries_readonly.sql",
+      "bytes": 2199,
+      "sha256": "1d8fbd2ca3cdaf67fefce69860053509920962b1b851f0191024fbe6064f0e7d",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/queries_readonly.sql"
+    },
+    {
+      "path": "review_kit/query_definitions.json",
+      "bytes": 2760,
+      "sha256": "cfccbaaaae0e1beff3c45f04a1b5a554de2728504c05fcc074641ca1699db081",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_definitions.json"
+    },
+    {
+      "path": "review_kit/query_results/history_export_7.csv",
+      "bytes": 1337,
+      "sha256": "fe347d3df1a020d16a4a043d734d3fe64627255957b39b600bce8f3634501eae",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/history_export_7.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q01_results.csv",
+      "bytes": 704,
+      "sha256": "4b9b7aeda346b1a4dd07bb99cc8ce52485a244c56c39d47075ed97a4cc2d7ea7",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q01_results.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q02_counts.csv",
+      "bytes": 77,
+      "sha256": "3be363b3bdd54d28855668c1b4f6ba33039097ff15423703ba5a8e218f4b6d10",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q02_counts.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q03_assets.csv",
+      "bytes": 1035,
+      "sha256": "b1a7740eadaeae998aa81ba84acb1193fd396dcbe4aa6ea8df93d4bb042d28b1",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q03_assets.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q04_defects.csv",
+      "bytes": 237,
+      "sha256": "e4ae4b93ba4588a8776c8bab419e25beb46e2f2d961b10932fec5d599808689b",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q04_defects.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q05_primary_events.csv",
+      "bytes": 930,
+      "sha256": "40caa65f94dd54ff757585b963b71fd51825961048e4c2937aa0bb8252085555",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q05_primary_events.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q06_publication.csv",
+      "bytes": 184,
+      "sha256": "d428644e02f6286cb59e0b84fb9c983d058339dc8b6b4a5d52e24b32a75b9f08",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q06_publication.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q07_sync_state.csv",
+      "bytes": 80,
+      "sha256": "799bb9aaf19f505017f21214f71effe499348a9070a4f310a979d959c955cd33",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q07_sync_state.csv"
+    },
+    {
+      "path": "review_kit/query_results/Q08_date_range.csv",
+      "bytes": 568,
+      "sha256": "20d89950deb7bbf914cd10f16a9021dcac182a895915cf1fe15c559d18323268",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/query_results/Q08_date_range.csv"
+    },
+    {
+      "path": "review_kit/README_KO.md",
+      "bytes": 3925,
+      "sha256": "516014268cd6b80c468c4c66e5966bf5cf30085cecd8611a48fd76965f546bc3",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/README_KO.md"
+    },
+    {
+      "path": "review_kit/review_verification.json",
+      "bytes": 28312,
+      "sha256": "9ec488bd5639d427217f546488cf280aef6dfa0748ac1f559cde9406810e53f7",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/review_verification.json"
+    },
+    {
+      "path": "review_kit/run_queries.py",
+      "bytes": 2413,
+      "sha256": "261a5b20e6b27d655f2ff24594e5d60a3016267fd8a2eebc79d4a746b86a48ae",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/run_queries.py"
+    },
+    {
+      "path": "review_kit/run_queries_result.txt",
+      "bytes": 7452,
+      "sha256": "fbed99ad8aee5d21b2db7839ee191cca2eb8f033a20cbd265564e16a7b77fd61",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/run_queries_result.txt"
+    },
+    {
+      "path": "review_kit/run_queries_verification.json",
+      "bytes": 142,
+      "sha256": "49a28917e6ccd988503370f71bab10919eced469f9e2e575f4590dd8bbc1e75e",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/run_queries_verification.json"
+    },
+    {
+      "path": "review_kit/schema_original.sql",
+      "bytes": 2815,
+      "sha256": "51f9c2736555f8f39e7c144125ee4dbd779cf76cbcc3984e575db85a044d8991",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/schema_original.sql"
+    },
+    {
+      "path": "review_kit/selected_rows_original.json",
+      "bytes": 1989760,
+      "sha256": "b8b0f631dd02abc19f17a8110e049b3ec231890e5a93c7edf9f50bc2e818106b",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/selected_rows_original.json"
+    },
+    {
+      "path": "review_kit/source_snapshot/src/config.py",
+      "bytes": 10834,
+      "sha256": "3f914288eddd98f360481246fc0467900c7ab81fde2c763fcae4047016c22d53",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/source_snapshot/src/config.py"
+    },
+    {
+      "path": "review_kit/source_snapshot/src/journal/history.py",
+      "bytes": 6343,
+      "sha256": "95c0411ef195844e84b8c5c90cb4e82f5830c72f5a4a9680cf2fc1dd24b326c1",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/source_snapshot/src/journal/history.py"
+    },
+    {
+      "path": "review_kit/tables/column_dictionary.csv",
+      "bytes": 2293,
+      "sha256": "a6a0290ca3a472899d8481f7460d00cb67c3f13a8be3e3042dcfc31584ebd7fd",
+      "role": "preserved_historical_support",
+      "document_version": null,
+      "source": "06_DB_구조조회_제출묶음_v1.0.zip!review_kit/tables/column_dictionary.csv"
+    }
+  ]
+}

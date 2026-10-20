@@ -1,0 +1,263 @@
+[
+  {
+    "figure": "T01_raw_strip.png",
+    "source": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/94dbb66f2fc14e879affbaa63964d2f0.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T01_raw_strip.png",
+    "source": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/3532d68369284ef78429632797d06ada.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T01_raw_strip.png",
+    "source": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/706a5861bd054dfeab9a988214a3d492.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T02_raw_strip.png",
+    "source": "assets/a8dc2303a68a4e6aa3611413d7f67df2/709c92d88e4245a8a524b4f5143363db.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T02_raw_strip.png",
+    "source": "assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T02_raw_strip.png",
+    "source": "assets/a8dc2303a68a4e6aa3611413d7f67df2/99aaea8abea347a3aadd67ab434651bc.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T03_raw_strip.png",
+    "source": "assets/62c1161f90064603b7ce9c3993af8f72/a15a555508c2485aaa9c668aaad5c576.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T03_raw_strip.png",
+    "source": "assets/62c1161f90064603b7ce9c3993af8f72/639d7b3eb0e94698b43aaacea52b4504.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T03_raw_strip.png",
+    "source": "assets/62c1161f90064603b7ce9c3993af8f72/9681e705bd58434f97ae669d9d2e4127.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T04_raw_strip.png",
+    "source": "assets/05fc9abc7e894f7d9dda34c823336d1b/4aa31b1223574c0586f149b8a312283c.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T04_raw_strip.png",
+    "source": "assets/05fc9abc7e894f7d9dda34c823336d1b/93f2b19f0a0341968d14fafb4905d82c.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T04_raw_strip.png",
+    "source": "assets/05fc9abc7e894f7d9dda34c823336d1b/7b5d2718fbc6468b84ea79b43cfd43ca.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T05_raw_strip.png",
+    "source": "assets/51f92dcc3f7843f180b2a848cd63a5c3/3ad871d7d75444c2b8f25541832c2b48.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T05_raw_strip.png",
+    "source": "assets/51f92dcc3f7843f180b2a848cd63a5c3/df8faea66a5f496fb46cd75d388ac6cb.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T05_raw_strip.png",
+    "source": "assets/51f92dcc3f7843f180b2a848cd63a5c3/c0360165d01240d88b012d30da308b6c.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T06_raw_strip.png",
+    "source": "assets/182c8e66347f43359d6b18e06519fd1d/f507eb101f9b42d7b6be02d778da6d39.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T06_raw_strip.png",
+    "source": "assets/182c8e66347f43359d6b18e06519fd1d/d1a87828e196402aa8c6adbd9c2166ab.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T06_raw_strip.png",
+    "source": "assets/182c8e66347f43359d6b18e06519fd1d/fb92ad19442a4b0cb5eba9d9b1f68d83.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T07_raw_strip.png",
+    "source": "assets/cd3833068e9842a68ece7922bbf2a09c/5fae3c26e7754c28b2de2865df6b745a.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T07_raw_strip.png",
+    "source": "assets/cd3833068e9842a68ece7922bbf2a09c/867bd10f01a14458b9adbbc46a0ab8df.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "T07_raw_strip.png",
+    "source": "assets/cd3833068e9842a68ece7922bbf2a09c/759c40c264c84fd2ab215e485491ae80.png",
+    "crop_xyxy": [
+      300,
+      165,
+      1020,
+      595
+    ],
+    "transformation": "crop then uniform display resize only; no retouching"
+  },
+  {
+    "figure": "ui_excerpt.png",
+    "source": "sources/screens/UI_CROP_JETSON.png",
+    "crop_xyxy": [
+      0,
+      0,
+      915,
+      880
+    ]
+  },
+  {
+    "figure": "T01 overlay",
+    "source": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/ca2806a09504478db074ce0d01d78e9b.jpg",
+    "transformation": "no source-byte edits; uniformly resized by DOCX display"
+  },
+  {
+    "figure": "T02 overlay",
+    "source": "assets/a8dc2303a68a4e6aa3611413d7f67df2/153d65af90464a4fb6123326a37c9e1d.jpg",
+    "transformation": "no source-byte edits; uniformly resized by DOCX display"
+  },
+  {
+    "figure": "timing_by_trial.png",
+    "source": "timing_recomputed.csv",
+    "series": [
+      "journal_elapsed_ms",
+      "integrated_elapsed_ms",
+      "request_to_plc_completion_event_ms"
+    ],
+    "transformation": "milliseconds divided by 1000; seven trials all shown; zero-based y-axis"
+  }
+]

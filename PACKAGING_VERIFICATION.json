@@ -1,0 +1,171 @@
+{
+  "name": "자료 정리·무결성·로컬 조회 검증",
+  "status": "PASS_WITH_DOCUMENTED_SOURCE_LIMITATION",
+  "verified_at_kst": "2026-10-20T16:31:16.691974+09:00",
+  "scope": "Current packaging tree only. No model inference, retraining, conversion, device operation or reexecution of historical 84/47-check audits.",
+  "approved_document_hashes": {
+    "count": 10,
+    "status": "PASS"
+  },
+  "pdf_page_counts": {
+    "01": 3,
+    "02": 16,
+    "03": 16,
+    "04": 16,
+    "05": 16,
+    "06": 14,
+    "07": 14,
+    "08": 4,
+    "10": 15
+  },
+  "docx_correspondence": {
+    "count": 9,
+    "body_paragraphs_and_versions": "PASS",
+    "figure_pairs": 45,
+    "figures_visually_compared": "PASS",
+    "pdf_minus_glyph_reading_order": "Three 04 paragraphs visually checked; minus signs and values match DOCX.",
+    "note": "Figures use different encoding/resampling in PDF and DOCX; visual correspondence checked, not identical encoded image bytes."
+  },
+  "html_correspondence": {
+    "version": "09 v1.1",
+    "checked_body_lines": 203,
+    "status": "PASS"
+  },
+  "original_evidence": [
+    {
+      "path": "M1_M2_benchmark_evidence_v001.zip",
+      "bytes": 37112177,
+      "sha256": "06321e2cb49302744181615e126d4f2d62b20e4d2c2782e8b2a29f815876cf29",
+      "files": 608,
+      "crc": "PASS",
+      "path_safety": "PASS"
+    },
+    {
+      "path": "Engine_Integrated_Test_Evidence_v001.zip",
+      "bytes": 31822254,
+      "sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace",
+      "files": 150,
+      "crc": "PASS",
+      "path_safety": "PASS"
+    },
+    {
+      "path": "M1_M2_model_evaluation_evidence_v001.zip",
+      "bytes": 21474918,
+      "sha256": "39dcfc71690b130678943955ed898c42235426ab5612ea7107ede39693b85478",
+      "files": 188,
+      "crc": "PASS",
+      "path_safety": "PASS"
+    },
+    {
+      "path": "M1_M2_dataset_evidence_v002.zip",
+      "bytes": 373981270,
+      "sha256": "3c991ac98bb6c48141403f7142a7a4dc2ece84f4bf468aa2459039a3f973b42e",
+      "files": 950,
+      "crc": "PASS",
+      "path_safety": "PASS"
+    }
+  ],
+  "internal_manifest_checks": [
+    {
+      "archive": "M1_M2_benchmark_evidence_v001.zip",
+      "manifest": "bundle_manifest.json",
+      "checked_files": 607,
+      "unlisted_files": [
+        "bundle_manifest.json"
+      ],
+      "issues": []
+    },
+    {
+      "archive": "Engine_Integrated_Test_Evidence_v001.zip",
+      "manifest": "bundle_manifest.json",
+      "checked_files": 148,
+      "unlisted_files": [
+        "bundle_manifest.json",
+        "verification.json"
+      ],
+      "issues": []
+    },
+    {
+      "archive": "M1_M2_model_evaluation_evidence_v001.zip",
+      "manifest": "bundle_manifest.json",
+      "checked_files": 187,
+      "unlisted_files": [
+        "bundle_manifest.json"
+      ],
+      "issues": []
+    },
+    {
+      "archive": "M1_M2_dataset_evidence_v002.zip",
+      "manifest": "M1_M2_dataset_evidence_v002/bundle_manifest.json",
+      "checked_files": 949,
+      "unlisted_files": [
+        "M1_M2_dataset_evidence_v002/bundle_manifest.json"
+      ],
+      "issues": []
+    }
+  ],
+  "preserved_support": {
+    "handoff_files": 44,
+    "old01_08_metadata_files": 2,
+    "byte_hashes": "PASS",
+    "historical_verification_unchanged": true
+  },
+  "db_queries": {
+    "name": "자료 정리·무결성·로컬 조회 검증",
+    "queries": 8,
+    "expected_csv_matches": 8,
+    "db_integrity": "ok",
+    "foreign_key_violations": 0,
+    "database_unchanged": true,
+    "database": {
+      "bytes": 1961984,
+      "sha256": "64b8ff61b39719c4e4fadc6d3328b8ea0b49a12418a38d686b528a01f600a098"
+    },
+    "table_counts": {
+      "calibrations": 0,
+      "cycles": 7,
+      "defects": 3,
+      "dispositions": 0,
+      "events": 55,
+      "frame_assets": 28,
+      "inspections": 7,
+      "outbox": 55,
+      "quarantine": 0,
+      "service_state": 14
+    },
+    "code_reviewed_before_execution": true,
+    "external_connections": false
+  },
+  "evidence_paths": {
+    "checked": 152,
+    "status": "PASS",
+    "clarification": "05 E10 ui_transition/ maps to actual sources/ui_transition/."
+  },
+  "document_http_links": {
+    "unique_urls": 30,
+    "success": 30,
+    "failures": [],
+    "scope": "Approved PDF URI annotations and approved 09 Markdown HTTP links; GitHub blob links verified through corresponding raw endpoint."
+  },
+  "relative_navigation_links": {
+    "count": 97,
+    "status": "PASS"
+  },
+  "code_readme": {
+    "status": "ALREADY_APPLIED",
+    "git_blob_sha1": "250f206649ce343b53f69a035145ddc7edd1eb6f",
+    "sha256": "79ff6a287848224b5c3b742dfecdf954fff0fdaa862cd04b3790e9c58a0c70af",
+    "approved_sha256": "79ff6a287848224b5c3b742dfecdf954fff0fdaa862cd04b3790e9c58a0c70af"
+  },
+  "known_limitations": [
+    "R0/P0 exact initial project-plan source not present in supplied inputs or fixed evaluation code tree; similarly named local plans were not substituted.",
+    "Code -> Download ZIP LFS inclusion unverified; use direct original file download or Git LFS.",
+    "No new model/field/device or independent final-test results; historical PASS/REVIEW/ERROR/PENDING records retain their original scope."
+  ],
+  "circular_hash_exclusions": [
+    "FILE_MANIFEST.json",
+    "PACKAGING_VERIFICATION.json",
+    "local aggregate submission ZIP (not committed)"
+  ],
+  "remote_verification": "Performed after commit/push in an external local report to avoid self-referential commit/hash claims."
+}

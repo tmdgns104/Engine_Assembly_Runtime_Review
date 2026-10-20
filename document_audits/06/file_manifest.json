@@ -1,0 +1,145 @@
+{
+  "scope": "all submission members except this manifest itself",
+  "files": [
+    {
+      "path": "00_제출안내.md",
+      "bytes": 2255,
+      "sha256": "dc2637e57ab5889c72e04f3a60d514f6e126f6ae27dd6738cb2673d9f1cba4e7"
+    },
+    {
+      "path": "06_엔진모형_DB_구조와_조회방식_v1.0.docx",
+      "bytes": 2643767,
+      "sha256": "c928d65a79366756bcffc31de9ac89dc91faa21afd05f036038c9b09a8d9890b"
+    },
+    {
+      "path": "06_엔진모형_DB_구조와_조회방식_v1.0.pdf",
+      "bytes": 1054245,
+      "sha256": "6bd50503ffffc6d88e3389489ab654efbb441651caefa2700c08fa052c14de6f"
+    },
+    {
+      "path": "Engine_Integrated_Test_Evidence_v001.zip",
+      "bytes": 31822254,
+      "sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace"
+    },
+    {
+      "path": "review_kit/README_KO.md",
+      "bytes": 3925,
+      "sha256": "516014268cd6b80c468c4c66e5966bf5cf30085cecd8611a48fd76965f546bc3"
+    },
+    {
+      "path": "review_kit/document_verification.json",
+      "bytes": 277,
+      "sha256": "b2e91cd63896a97415a77aa545b080e79c7698dc47cdd32a0ef100d88d5eea4e"
+    },
+    {
+      "path": "review_kit/figure_provenance.json",
+      "bytes": 1048,
+      "sha256": "b8316ac9fac38baf2107e06d4158f37e8d92768da751b1a272fc767d10e071ba"
+    },
+    {
+      "path": "review_kit/inspection_review_subset.sqlite3",
+      "bytes": 1961984,
+      "sha256": "64b8ff61b39719c4e4fadc6d3328b8ea0b49a12418a38d686b528a01f600a098"
+    },
+    {
+      "path": "review_kit/queries_readonly.sql",
+      "bytes": 2199,
+      "sha256": "1d8fbd2ca3cdaf67fefce69860053509920962b1b851f0191024fbe6064f0e7d"
+    },
+    {
+      "path": "review_kit/query_definitions.json",
+      "bytes": 2760,
+      "sha256": "cfccbaaaae0e1beff3c45f04a1b5a554de2728504c05fcc074641ca1699db081"
+    },
+    {
+      "path": "review_kit/query_results/Q01_results.csv",
+      "bytes": 704,
+      "sha256": "4b9b7aeda346b1a4dd07bb99cc8ce52485a244c56c39d47075ed97a4cc2d7ea7"
+    },
+    {
+      "path": "review_kit/query_results/Q02_counts.csv",
+      "bytes": 77,
+      "sha256": "3be363b3bdd54d28855668c1b4f6ba33039097ff15423703ba5a8e218f4b6d10"
+    },
+    {
+      "path": "review_kit/query_results/Q03_assets.csv",
+      "bytes": 1035,
+      "sha256": "b1a7740eadaeae998aa81ba84acb1193fd396dcbe4aa6ea8df93d4bb042d28b1"
+    },
+    {
+      "path": "review_kit/query_results/Q04_defects.csv",
+      "bytes": 237,
+      "sha256": "e4ae4b93ba4588a8776c8bab419e25beb46e2f2d961b10932fec5d599808689b"
+    },
+    {
+      "path": "review_kit/query_results/Q05_primary_events.csv",
+      "bytes": 930,
+      "sha256": "40caa65f94dd54ff757585b963b71fd51825961048e4c2937aa0bb8252085555"
+    },
+    {
+      "path": "review_kit/query_results/Q06_publication.csv",
+      "bytes": 184,
+      "sha256": "d428644e02f6286cb59e0b84fb9c983d058339dc8b6b4a5d52e24b32a75b9f08"
+    },
+    {
+      "path": "review_kit/query_results/Q07_sync_state.csv",
+      "bytes": 80,
+      "sha256": "799bb9aaf19f505017f21214f71effe499348a9070a4f310a979d959c955cd33"
+    },
+    {
+      "path": "review_kit/query_results/Q08_date_range.csv",
+      "bytes": 568,
+      "sha256": "20d89950deb7bbf914cd10f16a9021dcac182a895915cf1fe15c559d18323268"
+    },
+    {
+      "path": "review_kit/query_results/history_export_7.csv",
+      "bytes": 1337,
+      "sha256": "fe347d3df1a020d16a4a043d734d3fe64627255957b39b600bce8f3634501eae"
+    },
+    {
+      "path": "review_kit/review_verification.json",
+      "bytes": 28312,
+      "sha256": "9ec488bd5639d427217f546488cf280aef6dfa0748ac1f559cde9406810e53f7"
+    },
+    {
+      "path": "review_kit/run_queries.py",
+      "bytes": 2413,
+      "sha256": "261a5b20e6b27d655f2ff24594e5d60a3016267fd8a2eebc79d4a746b86a48ae"
+    },
+    {
+      "path": "review_kit/run_queries_result.txt",
+      "bytes": 7452,
+      "sha256": "fbed99ad8aee5d21b2db7839ee191cca2eb8f033a20cbd265564e16a7b77fd61"
+    },
+    {
+      "path": "review_kit/run_queries_verification.json",
+      "bytes": 142,
+      "sha256": "49a28917e6ccd988503370f71bab10919eced469f9e2e575f4590dd8bbc1e75e"
+    },
+    {
+      "path": "review_kit/schema_original.sql",
+      "bytes": 2815,
+      "sha256": "51f9c2736555f8f39e7c144125ee4dbd779cf76cbcc3984e575db85a044d8991"
+    },
+    {
+      "path": "review_kit/selected_rows_original.json",
+      "bytes": 1989760,
+      "sha256": "b8b0f631dd02abc19f17a8110e049b3ec231890e5a93c7edf9f50bc2e818106b"
+    },
+    {
+      "path": "review_kit/source_snapshot/src/config.py",
+      "bytes": 10834,
+      "sha256": "3f914288eddd98f360481246fc0467900c7ab81fde2c763fcae4047016c22d53"
+    },
+    {
+      "path": "review_kit/source_snapshot/src/journal/history.py",
+      "bytes": 6343,
+      "sha256": "95c0411ef195844e84b8c5c90cb4e82f5830c72f5a4a9680cf2fc1dd24b326c1"
+    },
+    {
+      "path": "review_kit/tables/column_dictionary.csv",
+      "bytes": 2293,
+      "sha256": "a6a0290ca3a472899d8481f7460d00cb67c3f13a8be3e3042dcfc31584ebd7fd"
+    }
+  ]
+}

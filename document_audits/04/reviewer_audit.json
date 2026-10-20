@@ -1,0 +1,86 @@
+{
+  "status": "PASS_SAVED_EVIDENCE_CHECKS",
+  "source_zip_sha256": "06321e2cb49302744181615e126d4f2d62b20e4d2c2782e8b2a29f815876cf29",
+  "scope": "Local review of uploaded evidence only. No Jetson access, training, inference or on-device rerun. Fixed-IoU saved-prediction counts recomputed; mAP arrays and tables arithmetic checked, not independently rerun through Ultralytics.",
+  "checks": {
+    "607_manifest_members_hash_size_and_exact_608_file_set": true,
+    "233_remote_result_hash_records_match_local_copies": true,
+    "frozen_protocol_and_six_code_hashes": true,
+    "all_4320_intervals_12_runs_order_and_16_summary_rows": true,
+    "memory_all_phase_counts_maxima_and_baseline_deltas": true,
+    "all_144_ground_truth_files_match_pixel_json": true,
+    "saved_operating_predictions_fixed_iou_counts_rechecked": true,
+    "four_accuracy_json_eight_class_rows_and_AP_mean_arithmetic": true,
+    "144_model_image_pairs_saved_input_tensor_hash_equal": true,
+    "13_example_references_original_image_hashes": true,
+    "separate_verification_attachment_is_inventory_not_benchmark": true,
+    "external_readme_matches_archive": true
+  },
+  "fixed_counts_recomputed": {
+    "M1_PT_r1": {
+      "images": 72,
+      "tp": 192,
+      "fp": 0,
+      "fn": 0
+    },
+    "M1_TRT_r1": {
+      "images": 72,
+      "tp": 192,
+      "fp": 0,
+      "fn": 0
+    },
+    "M2_PT_r1": {
+      "images": 72,
+      "tp": 72,
+      "fp": 0,
+      "fn": 0
+    },
+    "M2_TRT_r1": {
+      "images": 72,
+      "tp": 72,
+      "fp": 0,
+      "fn": 0
+    }
+  },
+  "derived_metrics": {
+    "M1": {
+      "latency_reduction_pct": 0.9940534993268857,
+      "throughput_ratio": 1.0101435062805266,
+      "rss_peak_reduction_pct": 49.06790196727662,
+      "rss_peak_MiB": {
+        "PT": 1250.5390625,
+        "TRT": 636.92578125
+      },
+      "rss_delta_peak_MiB": {
+        "PT": 619.98828125,
+        "TRT": 301.90234375
+      },
+      "map50_95_delta_pp": 0.09627311589942567,
+      "comparison_max_coordinate_diff_px": 0.060302734375,
+      "comparison_min_paired_iou": 0.998934706296086,
+      "comparison_max_confidence_diff": 0.0016114115715026,
+      "unmatched_pt": 0,
+      "unmatched_trt": 0
+    },
+    "M2": {
+      "latency_reduction_pct": -2.667209025690087,
+      "throughput_ratio": 0.9743422199550422,
+      "rss_peak_reduction_pct": 48.593162239936696,
+      "rss_peak_MiB": {
+        "PT": 1263.77734375,
+        "TRT": 649.66796875
+      },
+      "rss_delta_peak_MiB": {
+        "PT": 629.1171875,
+        "TRT": 314.6484375
+      },
+      "map50_95_delta_pp": -0.008797278156069677,
+      "comparison_max_coordinate_diff_px": 7.46051025390625,
+      "comparison_min_paired_iou": 0.9653311716359608,
+      "comparison_max_confidence_diff": 0.0005899667739868,
+      "unmatched_pt": 0,
+      "unmatched_trt": 0
+    }
+  },
+  "attachment_note": "verification(1).json is earlier inventory verification; archive verification.json is the benchmark verification used here."
+}

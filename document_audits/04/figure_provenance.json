@@ -1,0 +1,57 @@
+[
+  {
+    "figure": "M1_D147_enlarged.png",
+    "source": "examples/M1/D147/comparison.png",
+    "crop_in_resized_640x360_panel": [
+      120,
+      32,
+      520,
+      309
+    ],
+    "method": "Same source crop from GT/PT/TRT panels; comparison pixels preserved; new panel titles only."
+  },
+  {
+    "figure": "M1_D195_enlarged.png",
+    "source": "examples/M1/D195/comparison.png",
+    "crop_in_resized_640x360_panel": [
+      122,
+      31,
+      525,
+      307
+    ],
+    "method": "Same source crop from GT/PT/TRT panels; comparison pixels preserved; new panel titles only."
+  },
+  {
+    "figure": "M2_D160_enlarged.png",
+    "source": "examples/M2/D160/comparison.png",
+    "crop_in_resized_640x360_panel": [
+      127,
+      42,
+      528,
+      321
+    ],
+    "method": "Same source crop from GT/PT/TRT panels; comparison pixels preserved; new panel titles only."
+  },
+  {
+    "figure": "M1_D205_enlarged.png",
+    "source": "examples/M1/D205/comparison.png",
+    "crop_in_resized_640x360_panel": [
+      188,
+      0,
+      481,
+      360
+    ],
+    "method": "Same source crop from GT/PT/TRT panels; comparison pixels preserved; new panel titles only."
+  },
+  {
+    "figure": "M2_D206_enlarged.png",
+    "source": "examples/M2/D206/comparison.png",
+    "crop_in_resized_640x360_panel": [
+      167,
+      0,
+      516,
+      339
+    ],
+    "method": "Same source crop from GT/PT/TRT panels; comparison pixels preserved; new panel titles only."
+  }
+]

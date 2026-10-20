@@ -1,0 +1,28 @@
+{
+  "schema_diagram": {
+    "basis": [
+      "db/schema.sql",
+      "sources/tested_runtime/src/journal/history.py"
+    ],
+    "new_presentation_not_new_system": true,
+    "solid_edges": "declared foreign keys",
+    "dashed_edges": "logical JSON/key/path association"
+  },
+  "photos": [
+    {
+      "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/94dbb66f2fc14e879affbaa63964d2f0.png",
+      "source_sha256": "53f4dba15ec8750268cd88a263498c32abe75277bd94266f6110ee5117c5cef1",
+      "modification": "display-size only, no crop or pixel editing"
+    },
+    {
+      "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+      "source_sha256": "4e19047855176ee0cf9099fcb59ecedb728cbd6e75acb4d64a109b0d7f00c9b3",
+      "modification": "display-size only, no crop or pixel editing"
+    },
+    {
+      "path": "sources/screens/UI_CROP_JETSON.png",
+      "source_sha256": "1a1b7d843e514aaf4b8a24dc6e9c9e85dede54d29f1abcdfbcb2c1505a0a0ef2",
+      "modification": "display-size only, no crop or pixel editing"
+    }
+  ]
+}

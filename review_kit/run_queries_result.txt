@@ -1,0 +1,267 @@
+Q01_results: PASS (7 rows)
+[
+  {
+    "request_id": 1,
+    "inspection_id": "05f8aac3b2cb42c8a03b2d5c8ae32f86",
+    "state": "COMPLETE",
+    "basic_decision": "PASS",
+    "final_decision": "PASS",
+    "reason": "ALL_REQUIRED_PARTS_PRESENT_3_FRAMES",
+    "stored": 1,
+    "plc_result": 0
+  },
+  {
+    "request_id": 2,
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2",
+    "state": "COMPLETE",
+    "basic_decision": "FAIL",
+    "final_decision": "FAIL",
+    "reason": "RIGHT_PIPE_MISSING",
+    "stored": 1,
+    "plc_result": 1
+  },
+  {
+    "request_id": 3,
+    "inspection_id": "62c1161f90064603b7ce9c3993af8f72",
+    "state": "COMPLETE",
+    "basic_decision": "PASS",
+    "final_decision": "PASS",
+    "reason": "ALL_REQUIRED_PARTS_PRESENT_3_FRAMES",
+    "stored": 1,
+    "plc_result": 0
+  },
+  {
+    "request_id": 4,
+    "inspection_id": "05fc9abc7e894f7d9dda34c823336d1b",
+    "state": "COMPLETE",
+    "basic_decision": "FAIL",
+    "final_decision": "FAIL",
+    "reason": "RIGHT_PIPE_MISSING",
+    "stored": 1,
+    "plc_result": 1
+  },
+  {
+    "request_id": 5,
+    "inspection_id": "51f92dcc3f7843f180b2a848cd63a5c3",
+    "state": "COMPLETE",
+    "basic_decision": "PASS",
+    "final_decision": "PASS",
+    "reason": "ALL_REQUIRED_PARTS_PRESENT_3_FRAMES",
+    "stored": 1,
+    "plc_result": 0
+  },
+  {
+    "request_id": 6,
+    "inspection_id": "182c8e66347f43359d6b18e06519fd1d",
+    "state": "COMPLETE",
+    "basic_decision": "FAIL",
+    "final_decision": "FAIL",
+    "reason": "RIGHT_PIPE_MISSING",
+    "stored": 1,
+    "plc_result": 1
+  },
+  {
+    "request_id": 7,
+    "inspection_id": "cd3833068e9842a68ece7922bbf2a09c",
+    "state": "COMPLETE",
+    "basic_decision": "PASS",
+    "final_decision": "PASS",
+    "reason": "ALL_REQUIRED_PARTS_PRESENT_3_FRAMES",
+    "stored": 1,
+    "plc_result": 0
+  }
+]
+Q02_counts: PASS (2 rows)
+[
+  {
+    "basic_decision": "FAIL",
+    "final_decision": "FAIL",
+    "inspection_count": 3
+  },
+  {
+    "basic_decision": "PASS",
+    "final_decision": "PASS",
+    "inspection_count": 4
+  }
+]
+Q03_assets: PASS (4 rows)
+[
+  {
+    "asset_id": "153d65af90464a4fb6123326a37c9e1d",
+    "kind": "overlay",
+    "relative_path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/153d65af90464a4fb6123326a37c9e1d.jpg",
+    "sha256": "4bd97a48dc0f9212c34387d786853513fe852b10d1514b999b61ea5e0f8ac0d3",
+    "width": 1280,
+    "height": 720,
+    "bytes": 281771,
+    "capture_at": "2026-10-18T09:20:13.807456+00:00",
+    "sync_state": "PENDING"
+  },
+  {
+    "asset_id": "709c92d88e4245a8a524b4f5143363db",
+    "kind": "raw",
+    "relative_path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/709c92d88e4245a8a524b4f5143363db.png",
+    "sha256": "152f192a1b2d14c072988d91a1065a3b079e8698e5d7fc473ee317796f99a8c9",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1340705,
+    "capture_at": "2026-10-18T09:20:13.301907+00:00",
+    "sync_state": "PENDING"
+  },
+  {
+    "asset_id": "1f6e714cd9de4e6b8672d730cd4cf70e",
+    "kind": "raw",
+    "relative_path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+    "sha256": "4e19047855176ee0cf9099fcb59ecedb728cbd6e75acb4d64a109b0d7f00c9b3",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1341744,
+    "capture_at": "2026-10-18T09:20:13.554024+00:00",
+    "sync_state": "PENDING"
+  },
+  {
+    "asset_id": "99aaea8abea347a3aadd67ab434651bc",
+    "kind": "raw",
+    "relative_path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/99aaea8abea347a3aadd67ab434651bc.png",
+    "sha256": "725842d272ce8ef120166ee574aee98ae8ecb319a6508fc4d78ca373b616cdc2",
+    "width": 1280,
+    "height": 720,
+    "bytes": 1337266,
+    "capture_at": "2026-10-18T09:20:13.807456+00:00",
+    "sync_state": "PENDING"
+  }
+]
+Q04_defects: PASS (3 rows)
+[
+  {
+    "request_id": 2,
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2",
+    "code": "RIGHT_PIPE_MISSING",
+    "slot": "pipe_right"
+  },
+  {
+    "request_id": 4,
+    "inspection_id": "05fc9abc7e894f7d9dda34c823336d1b",
+    "code": "RIGHT_PIPE_MISSING",
+    "slot": "pipe_right"
+  },
+  {
+    "request_id": 6,
+    "inspection_id": "182c8e66347f43359d6b18e06519fd1d",
+    "code": "RIGHT_PIPE_MISSING",
+    "slot": "pipe_right"
+  }
+]
+Q05_primary_events: PASS (7 rows)
+[
+  {
+    "event_id": "e686ba0a6a5c46f0abf23c0ddfa621d0",
+    "event_type": "TRIGGER_ACCEPTED",
+    "occurred_at": "2026-10-18T09:20:12.216234+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "7a813d749f7241d685ddfbecbb9d681c",
+    "event_type": "PRODUCTION_INSPECTION_BOUND",
+    "occurred_at": "2026-10-18T09:20:12.237395+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "57b73e38416e41769e92c2e112f67042",
+    "event_type": "INSPECTION_COMPLETED",
+    "occurred_at": "2026-10-18T09:20:14.505150+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "c14861299bfb4fba981b19ffde646ab5",
+    "event_type": "INSPECTION_DURABLE_TIMING",
+    "occurred_at": "2026-10-18T09:20:14.547587+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "e319a517d4d846c89474b04d038875eb",
+    "event_type": "INTEGRATED_FINAL_DURABLE",
+    "occurred_at": "2026-10-18T09:20:21.961106+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "992a2d979cf34346b71e6ef14f6e0f74",
+    "event_type": "INTEGRATED_INSPECTION_COMPLETED",
+    "occurred_at": "2026-10-18T09:20:21.984420+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  },
+  {
+    "event_id": "3e6071c592c54fa7a9750e54a295263e",
+    "event_type": "PLC_CYCLIC_COMPLETION_OBSERVED",
+    "occurred_at": "2026-10-18T09:20:22.326969+00:00",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2"
+  }
+]
+Q06_publication: PASS (1 rows)
+[
+  {
+    "key": "production_publication:a8dc2303a68a4e6aa3611413d7f67df2",
+    "event": "PLC_CYCLIC_COMPLETION_OBSERVED",
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2",
+    "request_token": "37a2ca4f8baaa9a5:1:2"
+  }
+]
+Q07_sync_state: PASS (2 rows)
+[
+  {
+    "table_name": "outbox",
+    "sync_state": "PENDING",
+    "row_count": 55
+  },
+  {
+    "table_name": "frame_assets",
+    "sync_state": "PENDING",
+    "row_count": 28
+  }
+]
+Q08_date_range: PASS (7 rows)
+[
+  {
+    "request_id": 1,
+    "inspection_id": "05f8aac3b2cb42c8a03b2d5c8ae32f86",
+    "accepted_at": "2026-10-18T09:19:50.320514+00:00",
+    "decision": "PASS"
+  },
+  {
+    "request_id": 2,
+    "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2",
+    "accepted_at": "2026-10-18T09:20:12.215838+00:00",
+    "decision": "FAIL"
+  },
+  {
+    "request_id": 3,
+    "inspection_id": "62c1161f90064603b7ce9c3993af8f72",
+    "accepted_at": "2026-10-18T09:20:30.150291+00:00",
+    "decision": "PASS"
+  },
+  {
+    "request_id": 4,
+    "inspection_id": "05fc9abc7e894f7d9dda34c823336d1b",
+    "accepted_at": "2026-10-18T09:20:48.538485+00:00",
+    "decision": "FAIL"
+  },
+  {
+    "request_id": 5,
+    "inspection_id": "51f92dcc3f7843f180b2a848cd63a5c3",
+    "accepted_at": "2026-10-18T09:21:07.256851+00:00",
+    "decision": "PASS"
+  },
+  {
+    "request_id": 6,
+    "inspection_id": "182c8e66347f43359d6b18e06519fd1d",
+    "accepted_at": "2026-10-18T09:21:26.076160+00:00",
+    "decision": "FAIL"
+  },
+  {
+    "request_id": 7,
+    "inspection_id": "cd3833068e9842a68ece7922bbf2a09c",
+    "accepted_at": "2026-10-18T09:21:45.116230+00:00",
+    "decision": "PASS"
+  }
+]
+8 queries matched; review DB unchanged. No device connection performed.

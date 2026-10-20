@@ -1,0 +1,20 @@
+{
+  "zip_integrity": "PASS",
+  "benchmark_measurement_status": "COMPLETE",
+  "operating_restore_verified": true,
+  "zip_path": "D:\\OneDevice_Team_project\\docs\\evaluation_assets\\20261019\\M1_M2_benchmark_evidence_v001.zip",
+  "bytes": 37112177,
+  "sha256": "06321e2cb49302744181615e126d4f2d62b20e4d2c2782e8b2a29f815876cf29",
+  "files": 608,
+  "checks": {
+    "exact_file_set": "PASS",
+    "uncompressed_sizes": "PASS",
+    "all_member_sha256": "PASS",
+    "all_member_CRC": "PASS",
+    "example_CSV_references": "PASS",
+    "input_source_hashes": "PASS"
+  },
+  "readme_path": "D:\\OneDevice_Team_project\\docs\\evaluation_assets\\20261019\\M1_M2_benchmark_evidence_v001\\README_KO.md",
+  "readme_bytes": 12687,
+  "bundle_verification": "D:\\OneDevice_Team_project\\docs\\evaluation_assets\\20261019\\M1_M2_benchmark_evidence_v001\\verification.json"
+}

@@ -1,0 +1,31 @@
+{
+  "measurement_complete": true,
+  "operating_service_restored_ready": true,
+  "four_accuracy_conditions": true,
+  "latency_rows_4320": true,
+  "class_rows_8": true,
+  "protected_test_images_used": 0,
+  "protocol_sha256": "e9d3d6b317d224afb7083dfb5185269824bfe0a62c42e531cd80d33edad41236",
+  "status": "PASS",
+  "examples": 13,
+  "input_reference_hashes": "PASS",
+  "model_hash_chain": "PASS",
+  "backend_tensor_identity": "PASS",
+  "adapter_tests": "PASS",
+  "collected_evidence_audit": "PASS",
+  "operating_after_checks": {
+    "model_package_and_reused_source_hashes_unchanged": true,
+    "release_unchanged": true,
+    "config_unchanged": true,
+    "no_reboot": true,
+    "no_remaining_benchmark_processes": true,
+    "same_service_active": true
+  },
+  "optional_unmeasured": [
+    "GPU kernel-only latency",
+    "dedicated GPU memory",
+    "instantaneous memory peak between samples",
+    "independent final-test accuracy",
+    "PLC request-to-Done latency"
+  ]
+}

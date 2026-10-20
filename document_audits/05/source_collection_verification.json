@@ -1,0 +1,817 @@
+{
+  "task": "EXISTING_INTEGRATION_EVIDENCE_COLLECTION",
+  "verified_at": "2026-10-20T00:11:03.693648+00:00",
+  "status": "PASS",
+  "new_physical_test_performed": false,
+  "user_observation_confirmed": "LED and conveyor operation; trial-level retrospective statement",
+  "independent_per_id_motion_video": "NOT_SECURED",
+  "checks": {
+    "seven_unique_inspections": {
+      "pass": true,
+      "detail": null
+    },
+    "four_pass_three_fail": {
+      "pass": true,
+      "detail": null
+    },
+    "twenty_one_originals_seven_overlays": {
+      "pass": true,
+      "detail": null
+    },
+    "all_asset_hashes_and_sizes": {
+      "pass": true,
+      "detail": 49
+    },
+    "images_decode_and_dimensions": {
+      "pass": true,
+      "detail": [
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/94dbb66f2fc14e879affbaa63964d2f0.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/3532d68369284ef78429632797d06ada.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/706a5861bd054dfeab9a988214a3d492.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/ca2806a09504478db074ce0d01d78e9b.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/709c92d88e4245a8a524b4f5143363db.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/99aaea8abea347a3aadd67ab434651bc.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/153d65af90464a4fb6123326a37c9e1d.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/a15a555508c2485aaa9c668aaad5c576.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/639d7b3eb0e94698b43aaacea52b4504.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/9681e705bd58434f97ae669d9d2e4127.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/cad07f5ce4814436b0fb9d3769b02a8a.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/4aa31b1223574c0586f149b8a312283c.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/93f2b19f0a0341968d14fafb4905d82c.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/7b5d2718fbc6468b84ea79b43cfd43ca.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/88d5cc94a2e44ab6955dff5bdafac5dd.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/3ad871d7d75444c2b8f25541832c2b48.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/df8faea66a5f496fb46cd75d388ac6cb.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/c0360165d01240d88b012d30da308b6c.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/4e62f0b57c194bc3bbaf26bce6ada5e8.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/f507eb101f9b42d7b6be02d778da6d39.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/d1a87828e196402aa8c6adbd9c2166ab.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/fb92ad19442a4b0cb5eba9d9b1f68d83.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/0cfddae6219c493ea5bec00f0935f3d5.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/5fae3c26e7754c28b2de2865df6b745a.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/867bd10f01a14458b9adbbc46a0ab8df.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/759c40c264c84fd2ab215e485491ae80.png",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/271047410bfa488083ea3b5274db41c0.jpg",
+          "dimensions": [
+            1280,
+            720
+          ],
+          "valid": true
+        }
+      ]
+    },
+    "raw_files_unique": {
+      "pass": true,
+      "detail": null
+    },
+    "source_copy_hashes": {
+      "pass": true,
+      "detail": [
+        {
+          "path": "sources/field_ten/BEFORE.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/EXPECTED_SEQUENCE.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/FINAL_SUMMARY.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/AFTER_20261018T092246_484843Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/OBSERVE_20261018T091926_443447Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/OBSERVE_20261018T092052_161055Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/OBSERVE_20261018T092136_646453Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/field_ten/OBSERVE_20261018T092221_668462Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/transition/DEPLOYMENT.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/transition/AFTER_REBOOT_PROOF.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/ui_transition/DEPLOYMENT.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/ui_transition/AFTER_REBOOT_PROOF.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/CONFIG-UI-HISTORY-20261018.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "db/source_snapshot_receipt.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/historical_snapshot_post7.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_CROP_JETSON.png",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_CROP_JETSON.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_DETAIL_VERIFIED.txt",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_FILTER_VERIFIED.txt",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_DEVICE_CHECK_20261018T093018Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/screens/UI_DEVICE_CHECK_20261018T093444Z.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/config.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/configuration.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/runtime/standalone.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/runtime/standalone_web.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/control/opener_cyclic.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/control/standalone_plc.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/src/journal/history.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/tested_runtime/apps/edge_service/history_api.py",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/transition/runtime/apps/edge_service/line_details.js",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/transition/runtime/apps/edge_service/line_hmi.html",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/plc/비전검사 푸셔없는버전 4 .smc2",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/plc/PLC_SELECTED_FILE_v001.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/plc/PLC_SAVED_LADDER_v001.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "appendix/FIELD_v002_FINDINGS.md",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "appendix/benchmark_operating_after_verification.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "appendix/restore_observation_174722.json",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/94dbb66f2fc14e879affbaa63964d2f0.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/3532d68369284ef78429632797d06ada.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/706a5861bd054dfeab9a988214a3d492.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/ca2806a09504478db074ce0d01d78e9b.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05f8aac3b2cb42c8a03b2d5c8ae32f86/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/709c92d88e4245a8a524b4f5143363db.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/1f6e714cd9de4e6b8672d730cd4cf70e.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/99aaea8abea347a3aadd67ab434651bc.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/153d65af90464a4fb6123326a37c9e1d.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/a8dc2303a68a4e6aa3611413d7f67df2/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/a15a555508c2485aaa9c668aaad5c576.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/639d7b3eb0e94698b43aaacea52b4504.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/9681e705bd58434f97ae669d9d2e4127.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/cad07f5ce4814436b0fb9d3769b02a8a.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/62c1161f90064603b7ce9c3993af8f72/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/4aa31b1223574c0586f149b8a312283c.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/93f2b19f0a0341968d14fafb4905d82c.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/7b5d2718fbc6468b84ea79b43cfd43ca.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/88d5cc94a2e44ab6955dff5bdafac5dd.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/05fc9abc7e894f7d9dda34c823336d1b/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/3ad871d7d75444c2b8f25541832c2b48.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/df8faea66a5f496fb46cd75d388ac6cb.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/c0360165d01240d88b012d30da308b6c.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/4e62f0b57c194bc3bbaf26bce6ada5e8.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/51f92dcc3f7843f180b2a848cd63a5c3/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/f507eb101f9b42d7b6be02d778da6d39.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/d1a87828e196402aa8c6adbd9c2166ab.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/fb92ad19442a4b0cb5eba9d9b1f68d83.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/0cfddae6219c493ea5bec00f0935f3d5.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/182c8e66347f43359d6b18e06519fd1d/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/5fae3c26e7754c28b2de2865df6b745a.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/867bd10f01a14458b9adbbc46a0ab8df.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/759c40c264c84fd2ab215e485491ae80.png",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/271047410bfa488083ea3b5274db41c0.jpg",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "assets/cd3833068e9842a68ece7922bbf2a09c/assembly/result.json",
+          "method": "REMOTE_BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "queries/05f8aac3b2cb42c8a03b2d5c8ae32f86_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/05f8aac3b2cb42c8a03b2d5c8ae32f86_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/a8dc2303a68a4e6aa3611413d7f67df2_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/a8dc2303a68a4e6aa3611413d7f67df2_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/62c1161f90064603b7ce9c3993af8f72_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/62c1161f90064603b7ce9c3993af8f72_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/05fc9abc7e894f7d9dda34c823336d1b_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/05fc9abc7e894f7d9dda34c823336d1b_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/51f92dcc3f7843f180b2a848cd63a5c3_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/51f92dcc3f7843f180b2a848cd63a5c3_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/182c8e66347f43359d6b18e06519fd1d_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/182c8e66347f43359d6b18e06519fd1d_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/cd3833068e9842a68ece7922bbf2a09c_detail.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "queries/cd3833068e9842a68ece7922bbf2a09c_search.json",
+          "method": "READ_ONLY_HTTP_GET",
+          "match": true
+        },
+        {
+          "path": "sources/ui_transition/runtime/apps/edge_service/line_details.js",
+          "method": "BYTE_COPY",
+          "match": true
+        },
+        {
+          "path": "sources/ui_transition/runtime/apps/edge_service/line_hmi.html",
+          "method": "BYTE_COPY",
+          "match": true
+        }
+      ]
+    },
+    "query_and_db_links": {
+      "pass": true,
+      "detail": [
+        {
+          "inspection_id": "05f8aac3b2cb42c8a03b2d5c8ae32f86",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "a8dc2303a68a4e6aa3611413d7f67df2",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "62c1161f90064603b7ce9c3993af8f72",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "05fc9abc7e894f7d9dda34c823336d1b",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "51f92dcc3f7843f180b2a848cd63a5c3",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "182c8e66347f43359d6b18e06519fd1d",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        },
+        {
+          "inspection_id": "cd3833068e9842a68ece7922bbf2a09c",
+          "api_same_id_and_full_result_equals_snapshot": true,
+          "exported_result_equals_snapshot": true,
+          "historical_final_equals_db_final": true,
+          "plc_consumption_false_preserved": true,
+          "raw_count": 3
+        }
+      ]
+    },
+    "twenty_one_distinct_frame_ids": {
+      "pass": true,
+      "detail": null
+    },
+    "fourteen_successful_gets": {
+      "pass": true,
+      "detail": null
+    },
+    "csv_references": {
+      "pass": true,
+      "detail": {
+        "count": 215,
+        "missing": []
+      }
+    },
+    "markdown_links": {
+      "pass": true,
+      "detail": {
+        "count": 8,
+        "missing": []
+      }
+    },
+    "tested_runtime_hashes": {
+      "pass": true,
+      "detail": 8
+    },
+    "only_ui_release_diff": {
+      "pass": true,
+      "detail": null
+    },
+    "snapshot_unchanged_and_integrity": {
+      "pass": true,
+      "detail": null
+    },
+    "no_nonempty_secret_keys_or_private_key_content": {
+      "pass": true,
+      "detail": {
+        "candidate_paths": [],
+        "private_key_markers": [],
+        "scope": "JSON keys including nested JSON TEXT and text private-key headers; semantic source review; not a universal secret detector"
+      }
+    }
+  },
+  "errors": [],
+  "zip_verification": {
+    "status": "PASS",
+    "members": 150,
+    "exact_file_set": true,
+    "crc": true,
+    "member_sha256_equals_folder": true,
+    "includes_manifest_and_verification": true,
+    "procedure": "Check provisional ZIP, embed receipt, rebuild ZIP, verify complete final bytes again. Final ZIP SHA and post-rebuild check are in sibling ZIP_RECEIPT.json."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pages": 14,
+  "all_pages_visually_reviewed": true,
+  "render_method": "docx/render_docx.py / LibreOffice",
+  "unmodified_pages_after_final_edit": 12,
+  "rechecked_changed_pages": [
+    1,
+    14
+  ],
+  "source_images_byte_identical": 3,
+  "hashes_in_pdf_verified": true
+}

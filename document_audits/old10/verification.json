@@ -1,0 +1,48 @@
+{
+  "source": "/mnt/data/final_report_deliverables/10_엔진모형_최종_결과보고서_v1.0.docx",
+  "output": "/mnt/data/engine_final_report_v1_1.docx",
+  "body_text_equal_except_document_version": true,
+  "unchanged_media": [
+    "word/media/image2.png",
+    "word/media/image4.png",
+    "word/media/image5.png",
+    "word/media/image6.png",
+    "word/media/image7.png",
+    "word/media/image8.png"
+  ],
+  "replaced_images": {
+    "/word/media/image1.png": {
+      "old_sha256": "b0364fd4c2ccc87b69fc22ca5fb7b9f9d4a098fc162bf1e0c4532043a5ec1aab",
+      "new_sha256": "07923af7e74bf02bb5bd705ab349e4df9ab326a0841cc2740c91e9b57a5b208f"
+    },
+    "/word/media/image3.png": {
+      "old_sha256": "c51fda2aa27647f5ee7486c4604421611bf423532b0c08659a4702b3b9148fae",
+      "new_sha256": "7ff1f42e704c07c23737788a801511672915337a11c3825669c3ad8b476d7a86"
+    }
+  },
+  "page_breaks_normalized": 14,
+  "history_screenshot_display_scale": 0.9,
+  "new_hardware_tests": false,
+  "pdf_pages": 15,
+  "pdf_fonts_all_embedded": true,
+  "body_page_text_lengths": [
+    555,
+    984,
+    913,
+    655,
+    778,
+    734,
+    841,
+    922,
+    782,
+    748,
+    678,
+    781,
+    729,
+    670,
+    973
+  ],
+  "visual_review": "All 15 final Poppler page renders visually inspected; diagram Korean legible",
+  "independent_render": "Corrected pages 4 and 7 additionally rendered with PDFium",
+  "download_transfer_not_verified": true
+}

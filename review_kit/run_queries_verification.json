@@ -1,0 +1,7 @@
+{
+  "returncode": 0,
+  "queries_passed": 8,
+  "source": "run_queries.py stdout",
+  "device_access": false,
+  "operating_db_modified": false
+}

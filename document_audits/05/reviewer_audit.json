@@ -1,0 +1,273 @@
+{
+  "scope": "Offline audit of uploaded bytes, exported records and existing observations; no SSH, live GET, PLC action, inference or new field test. Source physical observations are retrospective user statements, not independently witnessed by this reviewer.",
+  "audited_at_utc": "2026-10-20T00:31:04.055370+00:00",
+  "zip": {
+    "name": "Engine_Integrated_Test_Evidence_v001.zip",
+    "bytes": 31822254,
+    "sha256": "c2f4b068f372cb2f9a972107e49b0862b27692f5ab7ac660ff0c1afc9aad1ace",
+    "files": 150
+  },
+  "status": "PASS",
+  "checks": {
+    "archive_crc": true,
+    "archive_paths_safe": true,
+    "unique_archive_names": true,
+    "manifest_file_set": true,
+    "148_manifest_entries_size_hash": true,
+    "external_verification_equals_internal": true,
+    "external_readme_equals_internal": true,
+    "seven_unique_inspections": true,
+    "planned_sequence": true,
+    "decision_agreement_7": true,
+    "request_sequence_1_to_7": true,
+    "four_pass_three_fail": true,
+    "export_loads_original_schema_locally": true,
+    "export_fk_consistency": true,
+    "record_crosslinks_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "durable_final_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "non_synthetic_live_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "storage_and_plc_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "reference_policy_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "three_valid_frames_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "three_frame_slot_consistency_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "timing_fields_05f8aac3b2cb42c8a03b2d5c8ae32f86": true,
+    "record_crosslinks_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "durable_final_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "non_synthetic_live_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "storage_and_plc_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "reference_policy_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "three_valid_frames_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "three_frame_slot_consistency_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "right_pipe_missing_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "timing_fields_a8dc2303a68a4e6aa3611413d7f67df2": true,
+    "record_crosslinks_62c1161f90064603b7ce9c3993af8f72": true,
+    "durable_final_62c1161f90064603b7ce9c3993af8f72": true,
+    "non_synthetic_live_62c1161f90064603b7ce9c3993af8f72": true,
+    "storage_and_plc_62c1161f90064603b7ce9c3993af8f72": true,
+    "reference_policy_62c1161f90064603b7ce9c3993af8f72": true,
+    "three_valid_frames_62c1161f90064603b7ce9c3993af8f72": true,
+    "three_frame_slot_consistency_62c1161f90064603b7ce9c3993af8f72": true,
+    "timing_fields_62c1161f90064603b7ce9c3993af8f72": true,
+    "record_crosslinks_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "durable_final_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "non_synthetic_live_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "storage_and_plc_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "reference_policy_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "three_valid_frames_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "three_frame_slot_consistency_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "right_pipe_missing_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "timing_fields_05fc9abc7e894f7d9dda34c823336d1b": true,
+    "record_crosslinks_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "durable_final_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "non_synthetic_live_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "storage_and_plc_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "reference_policy_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "three_valid_frames_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "three_frame_slot_consistency_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "timing_fields_51f92dcc3f7843f180b2a848cd63a5c3": true,
+    "record_crosslinks_182c8e66347f43359d6b18e06519fd1d": true,
+    "durable_final_182c8e66347f43359d6b18e06519fd1d": true,
+    "non_synthetic_live_182c8e66347f43359d6b18e06519fd1d": true,
+    "storage_and_plc_182c8e66347f43359d6b18e06519fd1d": true,
+    "reference_policy_182c8e66347f43359d6b18e06519fd1d": true,
+    "three_valid_frames_182c8e66347f43359d6b18e06519fd1d": true,
+    "three_frame_slot_consistency_182c8e66347f43359d6b18e06519fd1d": true,
+    "right_pipe_missing_182c8e66347f43359d6b18e06519fd1d": true,
+    "timing_fields_182c8e66347f43359d6b18e06519fd1d": true,
+    "record_crosslinks_cd3833068e9842a68ece7922bbf2a09c": true,
+    "durable_final_cd3833068e9842a68ece7922bbf2a09c": true,
+    "non_synthetic_live_cd3833068e9842a68ece7922bbf2a09c": true,
+    "storage_and_plc_cd3833068e9842a68ece7922bbf2a09c": true,
+    "reference_policy_cd3833068e9842a68ece7922bbf2a09c": true,
+    "three_valid_frames_cd3833068e9842a68ece7922bbf2a09c": true,
+    "three_frame_slot_consistency_cd3833068e9842a68ece7922bbf2a09c": true,
+    "timing_fields_cd3833068e9842a68ece7922bbf2a09c": true,
+    "distinct_frame_ids": true,
+    "all_49_assets_size_hash": true,
+    "21_originals_7_overlays": true,
+    "http14_receipts": true,
+    "35_remote_file_receipts": true,
+    "cyclic_counter_increments": true,
+    "rejected_no_increment": true,
+    "after_request_low": true,
+    "two_ui_files_changed": true,
+    "eight_source_hashes": true,
+    "plc_file_provenance": true
+  },
+  "details": {
+    "148_manifest_entries_size_hash": {
+      "count": 148,
+      "mismatch": []
+    },
+    "export_table_counts": {
+      "inspections": 7,
+      "defects": 3,
+      "frame_assets": 28,
+      "dispositions": 0,
+      "cycles": 7,
+      "events": 55,
+      "outbox": 55,
+      "service_state": 14
+    },
+    "all_49_assets_size_hash": {
+      "roles": {
+        "raw": 21,
+        "overlay": 7,
+        "existing_reference_result_json": 7,
+        "db_result_json_export": 7,
+        "final_json_export": 7
+      },
+      "mismatch": []
+    },
+    "timing_recomputed": {
+      "journal_elapsed_ms": {
+        "min_ms": 2282.937,
+        "mean_ms": 2507.3094285714287,
+        "max_ms": 3025.655
+      },
+      "request_to_three_frames_ms": {
+        "min_ms": 1815.1978909999684,
+        "mean_ms": 1928.9702472857186,
+        "max_ms": 2360.921253000015
+      },
+      "request_to_durable_result_ms": {
+        "min_ms": 2315.952106999987,
+        "mean_ms": 2585.6691477142786,
+        "max_ms": 3061.3125659999696
+      },
+      "storage_commit_ms": {
+        "min_ms": 312.55874300001096,
+        "mean_ms": 469.5676655714302,
+        "max_ms": 1017.5356830000055
+      },
+      "integrated_elapsed_ms": {
+        "min_ms": 10183.055556999989,
+        "mean_ms": 11150.713628000001,
+        "max_ms": 14323.689876999993
+      },
+      "request_to_publication_ms": {
+        "min_ms": 10237.268564000004,
+        "mean_ms": 11226.36868400001,
+        "max_ms": 14377.835013000009
+      },
+      "request_to_plc_completion_event_ms": {
+        "min_ms": 10580.181632000005,
+        "mean_ms": 11567.494375571438,
+        "max_ms": 14707.143523000013
+      }
+    },
+    "inspections": [
+      {
+        "number": 1,
+        "decision": "PASS",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-1405",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1406",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1407"
+        ],
+        "right_pipe_states": [
+          "PRESENT",
+          "PRESENT",
+          "PRESENT"
+        ],
+        "event_id": "af8e6958208f42ae8fc8ab9d62f2191c"
+      },
+      {
+        "number": 2,
+        "decision": "FAIL",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-1632",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1633",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1634"
+        ],
+        "right_pipe_states": [
+          "MISSING",
+          "MISSING",
+          "MISSING"
+        ],
+        "event_id": "3e6071c592c54fa7a9750e54a295263e"
+      },
+      {
+        "number": 3,
+        "decision": "PASS",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-1817",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1818",
+          "b0a1f9e0dfb34c47996b61696b6844ed-1819"
+        ],
+        "right_pipe_states": [
+          "PRESENT",
+          "PRESENT",
+          "PRESENT"
+        ],
+        "event_id": "2963aaeb990c4ba89423fe9e103c0a92"
+      },
+      {
+        "number": 4,
+        "decision": "FAIL",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-2006",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2007",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2008"
+        ],
+        "right_pipe_states": [
+          "MISSING",
+          "MISSING",
+          "MISSING"
+        ],
+        "event_id": "5ea8eb147249477fb6501acc6cd81c67"
+      },
+      {
+        "number": 5,
+        "decision": "PASS",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-2202",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2203",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2204"
+        ],
+        "right_pipe_states": [
+          "PRESENT",
+          "PRESENT",
+          "PRESENT"
+        ],
+        "event_id": "9448d1cc5f404363bd86e453fe190987"
+      },
+      {
+        "number": 6,
+        "decision": "FAIL",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-2388",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2389",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2390"
+        ],
+        "right_pipe_states": [
+          "MISSING",
+          "MISSING",
+          "MISSING"
+        ],
+        "event_id": "cfb856c2483b4452843b452953651ad9"
+      },
+      {
+        "number": 7,
+        "decision": "PASS",
+        "frame_ids": [
+          "b0a1f9e0dfb34c47996b61696b6844ed-2586",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2587",
+          "b0a1f9e0dfb34c47996b61696b6844ed-2588"
+        ],
+        "right_pipe_states": [
+          "PRESENT",
+          "PRESENT",
+          "PRESENT"
+        ],
+        "event_id": "dc1ae597ba15462297d5923ded7947d9"
+      }
+    ]
+  },
+  "limitations": [
+    "Original running SQLite DB and Jetson not re-read here.",
+    "148 manifest entries plus 2 self-describing files; no external expected whole ZIP hash supplied.",
+    "Physical LED/conveyor evidence is the provided user observation, not per-ID video/electrical feedback.",
+    "Historical seven-trial scope only."
+  ]
+}

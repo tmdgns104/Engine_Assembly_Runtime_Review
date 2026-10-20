@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-10-19T09:27:35.412705+00:00",
+  "report_version": "1.0",
+  "page_count": 16,
+  "files": [
+    {
+      "path": "04_엔진모형_최적화전후_Benchmark_보고서_v1.0.pdf",
+      "bytes": 1400801,
+      "sha256": "21e599e13f6b2b1ea33146e955fdeffee86dcfa3f914fcaf4c0884f1107bea76"
+    },
+    {
+      "path": "04_엔진모형_최적화전후_Benchmark_보고서_v1.0.docx",
+      "bytes": 1006715,
+      "sha256": "9dd3de100df56015614a6fba70e92923dcbccd8e77c2aeb18097883f808e3f6b"
+    },
+    {
+      "path": "00_제출자료_안내.md",
+      "bytes": 5412,
+      "sha256": "5ba97a64cdec0e0870ed6509da11bdc3c3cbe2317525dafc71140654af95253d"
+    },
+    {
+      "path": "M1_M2_benchmark_evidence_v001.zip",
+      "bytes": 37112177,
+      "sha256": "06321e2cb49302744181615e126d4f2d62b20e4d2c2782e8b2a29f815876cf29"
+    },
+    {
+      "path": "M1_M2_benchmark_measurement_verification.json",
+      "bytes": 999,
+      "sha256": "527ce85f4d0b79a79ef58b879c7944a6b73f19fab795dc451b44ebcbb0db4332"
+    },
+    {
+      "path": "M1_M2_benchmark_evidence_v001_zip_verification.json",
+      "bytes": 873,
+      "sha256": "049949e1359e498e021fad0bbe1c5039a9241e1105cb43f6fb46471e97e0819a"
+    },
+    {
+      "path": "reviewer_audit.json",
+      "bytes": 2966,
+      "sha256": "4588c309fa4de7b4a50a3582eaa719ec7a4f207029433da6197a78252aa201b2"
+    },
+    {
+      "path": "figure_provenance.json",
+      "bytes": 1460,
+      "sha256": "fb680a6c4fc643cfbd72231c4d07dc7b54831d513d6c612dca5986b2bca31e22"
+    }
+  ],
+  "scope": "Submission packaging only. Original benchmark ZIP unchanged. No on-device execution."
+}
