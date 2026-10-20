@@ -127,3 +127,9 @@ M1 `jetson/products/ENGINE_Z3005_5/dynamic_parts_005/manifest.json`, M2 `jetson/
 실패·중단·attempt001, 초안·승인 기록, 빈 라벨, REVIEW·ERROR·PENDING, 과거 verification은 원문 그대로다. 원본 증빙을 보고서의 최신 버전에 맞춰 재압축하거나 숫자를 수정하지 않았다.
 
 01의 R0와 08의 P0에 인용된 `프로젝트계획서_팀_이승훈_최신화_사람중심.md` 원문은 현재 입력 폴더와 평가 코드 고정 트리에서 확인하지 못했다. 해당 과거 출처를 새로 만들지 않았으며, 최신 08 기획안으로 원문을 대체했다고 주장하지 않는다.
+
+## 11 데이터셋 구축 프로그램 설명서
+
+[PDF](11_dataset_program_manual_v1_0.pdf) · [DOCX](11_dataset_program_manual_v1_0.docx) · v1.0, 10쪽.
+
+Windows 촬영·검토·재개·라벨링 인계 프로그램의 사용·구조 설명이다. 설명서의 S01~S12 소스 링크는 코드 커밋 `bdadacc51c6c9b03d67a57ed7bbe10366a06cc4c`에 고정돼 있다. 기존 02 데이터셋 설명서와 함께 볼 수 있으며, 새 촬영·학습·장치 검증 결과를 추가한 것은 아니다.

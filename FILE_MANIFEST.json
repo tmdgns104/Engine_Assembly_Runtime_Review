@@ -6,8 +6,8 @@
     "PACKAGING_VERIFICATION.json",
     "local aggregate ZIP"
   ],
-  "file_count_excluding_self_and_verification": 78,
-  "payload_bytes": 528925257,
+  "file_count_excluding_self_and_verification": 80,
+  "payload_bytes": 529496470,
   "files": [
     {
       "path": ".gitattributes",
@@ -19,8 +19,8 @@
     },
     {
       "path": "00_제출안내.md",
-      "bytes": 5727,
-      "sha256": "eb9bc81588efadaf66fd755dc8fcb4e148e3d5598d0b4e3fe51516f1fc6d1c84",
+      "bytes": 5881,
+      "sha256": "259d51ba7a044465cbe35acf701e7e8b4d0e69e0af317b77bc873c8bec10de6c",
       "role": "current_packaging_navigation",
       "document_version": null,
       "source": "created by this packaging task"
@@ -210,6 +210,22 @@
       "source": "approved_inputs.json: 10_final_report_v1_2.pdf"
     },
     {
+      "path": "11_dataset_program_manual_v1_0.docx",
+      "role": "user_provided_supplemental_document",
+      "document_version": "1.0",
+      "source": "User-provided original attachment: 11_dataset_program_manual_v1_0.docx",
+      "bytes": 51948,
+      "sha256": "a74d0d7b756db544e5c04d958143d14592c3734b89bbeed88268b38cf77fa605"
+    },
+    {
+      "path": "11_dataset_program_manual_v1_0.pdf",
+      "role": "user_provided_supplemental_document",
+      "document_version": "1.0",
+      "source": "User-provided original attachment: 11_dataset_program_manual_v1_0.pdf",
+      "bytes": 518367,
+      "sha256": "3fb3f81ff757b1eedba4d045242e99d1fce97af5834a5af667950ecbc68f5398"
+    },
+    {
       "path": "document_audits/01/01_verification.json",
       "bytes": 3721,
       "sha256": "a41d117a944508490cbc7f12b708197d8526ee8464644bb7d7e03740d71be954",
@@ -387,8 +403,8 @@
     },
     {
       "path": "DOCUMENT_VERSION_MAP.md",
-      "bytes": 3363,
-      "sha256": "351af89cde312ce2f5ed3e8599daec015ec269ed6b511a4c5374eab2de9d28cd",
+      "bytes": 3459,
+      "sha256": "6fde9bc3523b07caab777fc573f47806acb37182caa6ac6cc6563f9ef29dc43f",
       "role": "current_packaging_navigation",
       "document_version": null,
       "source": "created by this packaging task"
@@ -403,8 +419,8 @@
     },
     {
       "path": "EVIDENCE_INDEX.md",
-      "bytes": 9989,
-      "sha256": "3deecdf737b528caefd6d1e9b0d3723d34a9178c7648398b578b7ecb2a4f095e",
+      "bytes": 10490,
+      "sha256": "ac4c52494057d23ddb8343dd6ea22df361fdc7d5a42abb651e3b6ac27145b5f5",
       "role": "current_packaging_navigation",
       "document_version": null,
       "source": "created by this packaging task"
@@ -435,8 +451,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6450,
-      "sha256": "5df05496c815bdb64ec6a0a1816b8b08c9af4afd925f064df40f569fa66d5946",
+      "bytes": 6597,
+      "sha256": "584be62dd2c0bca9bf3dd83fe4c9f5fccaa2909e8f02dda6c80b26d8b3874bc8",
       "role": "current_packaging_navigation",
       "document_version": null,
       "source": "created by this packaging task"

@@ -167,5 +167,30 @@
     "PACKAGING_VERIFICATION.json",
     "local aggregate submission ZIP (not committed)"
   ],
-  "remote_verification": "Performed after commit/push in an external local report to avoid self-referential commit/hash claims."
+  "remote_verification": "Performed after commit/push in an external local report to avoid self-referential commit/hash claims.",
+  "supplemental_document_verification": {
+    "verified_at_kst": "2026-10-20T17:05:00.300205+09:00",
+    "baseline_publication_commit": "42a71d40d15bb73ad652e64c197ff5a6b9cdbe5d",
+    "document_id": "11",
+    "version": "1.0",
+    "files": [
+      {
+        "path": "11_dataset_program_manual_v1_0.pdf",
+        "bytes": 518367,
+        "sha256": "3fb3f81ff757b1eedba4d045242e99d1fce97af5834a5af667950ecbc68f5398"
+      },
+      {
+        "path": "11_dataset_program_manual_v1_0.docx",
+        "bytes": 51948,
+        "sha256": "a74d0d7b756db544e5c04d958143d14592c3734b89bbeed88268b38cf77fa605"
+      }
+    ],
+    "pdf_pages": 10,
+    "docx_crc": "PASS",
+    "matching_docx_body_paragraphs": 153,
+    "source_links_http_200": 14,
+    "original_bytes_preserved": true,
+    "scope": "Addition of user-provided manual only; prior checks above retain their original date and scope.",
+    "prior_local_aggregate_zip": "Remains the original 80-file snapshot; this supplementary GitHub upload does not rebuild that ZIP."
+  }
 }

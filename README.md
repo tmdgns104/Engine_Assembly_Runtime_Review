@@ -20,6 +20,7 @@ Engine_Assembly_Defect_Inspector 프로젝트의 산출물 저장소입니다. *
 | 08 | [프로젝트 기획안](08_%EC%97%94%EC%A7%84%EB%AA%A8%ED%98%95_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B8%B0%ED%9A%8D%EC%95%88_v1.1.pdf) | 1.1 | 319,435 B | [DOCX](08_%EC%97%94%EC%A7%84%EB%AA%A8%ED%98%95_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B8%B0%ED%9A%8D%EC%95%88_v1.1.docx) |
 | 09 | [코드 저장소 README](09_project_readme_v1_1.md) | 1.1 | 28,791 B | [HTML](09_project_readme_v1_1.html) |
 | 10 | [최종 결과보고서](10_final_report_v1_2.pdf) | 1.2 | 1,202,229 B | [DOCX](10_final_report_v1_2.docx) |
+| 11 | [데이터셋 구축 프로그램 설명서](11_dataset_program_manual_v1_0.pdf) | 1.0 | 518,367 B | [DOCX](11_dataset_program_manual_v1_0.docx) |
 
 ## 원본 실험·수집 증빙
 
@@ -52,7 +53,7 @@ Code → Download ZIP의 LFS 실파일 포함은 확인하지 않았습니다. [
 
 ## 파일 구성과 확인 한계
 
-안내 README·manifest·현재 검증 JSON을 제외한 보존 자료와 인덱스는 **77개, 528,918,807 bytes**입니다. 세 파일을 포함한 제출 트리는 **80개 파일**이며 정확한 개별 용량은 manifest와 로컬 최종 검증 보고서에 기록합니다.
+안내 README·manifest·현재 검증 JSON을 제외한 보존 자료와 인덱스는 **79개, 529,489,873 bytes**입니다. 세 파일을 포함한 제출 트리는 **82개 파일**이며 정확한 개별 용량은 manifest와 로컬 검증 보고서에 기록합니다.
 
 실패·중단·빈 라벨·초안·승인·REVIEW/ERROR/PENDING 기록은 그대로 보존했습니다.
 01 R0·08 P0에 인용된 초기 계획 원문은 이번 입력과 평가 코드 트리에서 확인하지 못했습니다. 상세 범위는 [EVIDENCE_INDEX.md](EVIDENCE_INDEX.md)를 참고하세요.

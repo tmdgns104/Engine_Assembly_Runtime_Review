@@ -14,6 +14,7 @@
 | 08 | [프로젝트 기획안](08_%EC%97%94%EC%A7%84%EB%AA%A8%ED%98%95_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EA%B8%B0%ED%9A%8D%EC%95%88_v1.1.pdf) | 1.1 |
 | 09 | [코드 저장소 README](09_project_readme_v1_1.md) | 1.1 |
 | 10 | [최종 결과보고서](10_final_report_v1_2.pdf) | 1.2 |
+| 11 | [데이터셋 구축 프로그램 설명서](11_dataset_program_manual_v1_0.pdf) | 1.0 |
 
 ## 과거 참조 대응
 
